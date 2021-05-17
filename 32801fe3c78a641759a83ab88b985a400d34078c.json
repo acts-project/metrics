@@ -1,0 +1,6701 @@
+{
+  "commit": {
+    "date": "2021-02-01T14:07:50+01:00",
+    "hash": "32801fe3c78a641759a83ab88b985a400d34078c",
+    "message": "feat(Fatras): Add decay and point-like interactions interface (#651)"
+  },
+  "parent": {
+    "date": "2021-01-29T16:12:42+01:00",
+    "hash": "c97d2afe9b63a2e9e698c982b55d1d3d35b8e861",
+    "message": "feat: add export to json geometry using hierarchy map (#679)"
+  },
+  "branch": "main",
+  "date": "2021-05-17T17:07:26.653207",
+  "results": [
+    {
+      "name": "max_rss_Tests/UnitTests/Core/TrackFinding/CombinatorialKalmanFilterTests.cpp",
+      "group": "compile_max_rss",
+      "value": 4.461406707763672,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/TrackFinding/src/TrackFindingAlgorithmFunction.cpp",
+      "group": "compile_max_rss",
+      "value": 4.369297027587891,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/TrackFitting/KalmanFitterTests.cpp",
+      "group": "compile_max_rss",
+      "value": 4.278358459472656,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/TrackFitting/src/TrackFittingAlgorithmFunction.cpp",
+      "group": "compile_max_rss",
+      "value": 4.138401031494141,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Visualization/EventDataView3DTests.cpp",
+      "group": "compile_max_rss",
+      "value": 3.6923179626464844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Vertexing/AdaptiveMultiVertexFinderTests.cpp",
+      "group": "compile_max_rss",
+      "value": 2.730945587158203,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Vertexing/IterativeVertexFinderTests.cpp",
+      "group": "compile_max_rss",
+      "value": 2.5609703063964844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/TrackFitting/GainMatrixUpdaterTests.cpp",
+      "group": "compile_max_rss",
+      "value": 2.548175811767578,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Common/src/PropagationExampleBase.cpp",
+      "group": "compile_max_rss",
+      "value": 2.424541473388672,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Vertexing/src/AdaptiveMultiVertexFinderAlgorithm.cpp",
+      "group": "compile_max_rss",
+      "value": 2.3949813842773438,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Vertexing/AdaptiveMultiVertexFitterTests.cpp",
+      "group": "compile_max_rss",
+      "value": 2.3785324096679688,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Common/src/MaterialValidationBase.cpp",
+      "group": "compile_max_rss",
+      "value": 2.3523521423339844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Propagator/StepperTests.cpp",
+      "group": "compile_max_rss",
+      "value": 2.181018829345703,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Propagator/MaterialCollectionTests.cpp",
+      "group": "compile_max_rss",
+      "value": 2.1367263793945312,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Vertexing/KalmanVertexTrackUpdaterTests.cpp",
+      "group": "compile_max_rss",
+      "value": 2.092052459716797,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Vertexing/src/IterativeVertexFinderAlgorithm.cpp",
+      "group": "compile_max_rss",
+      "value": 2.077465057373047,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Propagator/ExtrapolatorTests.cpp",
+      "group": "compile_max_rss",
+      "value": 2.0415267944335938,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Vertexing/FullBilloirVertexFitterTests.cpp",
+      "group": "compile_max_rss",
+      "value": 2.017375946044922,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/IntegrationTests/Autodiff/PropagationAutodiffDenseConstant.cpp",
+      "group": "compile_max_rss",
+      "value": 1.9845199584960938,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/IntegrationTests/Fatras/FatrasSimulationTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.9413833618164062,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/IntegrationTests/PropagationDenseConstant.cpp",
+      "group": "compile_max_rss",
+      "value": 1.9052963256835938,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Vertexing/src/VertexFitterAlgorithm.cpp",
+      "group": "compile_max_rss",
+      "value": 1.8554153442382812,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Propagator/DirectNavigatorTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.8077430725097656,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Vertexing/KalmanVertexUpdaterTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.7965774536132812,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/BoundingBoxTest.cpp",
+      "group": "compile_max_rss",
+      "value": 1.7806930541992188,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Seeding/EstimateTrackParamsFromSeedTest.cpp",
+      "group": "compile_max_rss",
+      "value": 1.7172584533691406,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/TrackingVolume.cpp",
+      "group": "compile_max_rss",
+      "value": 1.6784439086914062,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/SubspaceTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.6752166748046875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/IntegrationTests/Autodiff/PropagationAutodiffConstant.cpp",
+      "group": "compile_max_rss",
+      "value": 1.6622161865234375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Vertexing/ZScanVertexFinderTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.6485252380371094,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Visualization/SurfaceView3DTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.5616683959960938,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/IntegrationTests/Autodiff/PropagationCompareEigenAutodiff.cpp",
+      "group": "compile_max_rss",
+      "value": 1.5488967895507812,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/IntegrationTests/PropagationAtlasConstant.cpp",
+      "group": "compile_max_rss",
+      "value": 1.5473098754882812,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/IntegrationTests/PropagationStraightLine.cpp",
+      "group": "compile_max_rss",
+      "value": 1.5413818359375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/IntegrationTests/Autodiff/PropagationCompareAtlasAutodiffConstant.cpp",
+      "group": "compile_max_rss",
+      "value": 1.5386276245117188,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Vertexing/LinearizedTrackFactoryTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.5370101928710938,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Propagator/KalmanExtrapolatorTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.5246925354003906,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/IntegrationTests/PropagationEigenConstant.cpp",
+      "group": "compile_max_rss",
+      "value": 1.5224189758300781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Propagator/NavigatorTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.5157966613769531,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Vertexing/ImpactPointEstimatorTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.5095863342285156,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/IntegrationTests/PropagationCompareAtlasEigenConstant.cpp",
+      "group": "compile_max_rss",
+      "value": 1.5047073364257812,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/EventData/MultiTrajectoryTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.5032272338867188,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/IntegrationTests/PropagationCompareEigenStraightLine.cpp",
+      "group": "compile_max_rss",
+      "value": 1.4678268432617188,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/GenericCuboidVolumeBounds.cpp",
+      "group": "compile_max_rss",
+      "value": 1.4597396850585938,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Common/src/MaterialMappingBase.cpp",
+      "group": "compile_max_rss",
+      "value": 1.436004638671875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Visualization/TrackingGeometryView3DTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.3660964965820312,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Material/VolumeMaterialMapperTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.3628387451171875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/EventData/BoundTrackParametersTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.359649658203125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Propagator/PropagatorTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.3510322570800781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Material/VolumeMaterialMapper.cpp",
+      "group": "compile_max_rss",
+      "value": 1.3354759216308594,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/TrackingVolumeTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.322021484375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/FrustumTest.cpp",
+      "group": "compile_max_rss",
+      "value": 1.3162879943847656,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Propagator/JacobianTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.2979087829589844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/IntegrationTests/BVHNavigationTest.cpp",
+      "group": "compile_max_rss",
+      "value": 1.2907943725585938,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Propagator/AtlasStepperTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.2676811218261719,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/Benchmarks/RayFrustumBenchmark.cpp",
+      "group": "compile_max_rss",
+      "value": 1.2674751281738281,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/TrackingGeometryCreationTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.2663612365722656,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/ContextualDetector/src/AlignedDetector.cpp",
+      "group": "compile_max_rss",
+      "value": 1.2627067565917969,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/ContextualDetector/src/PayloadDetector.cpp",
+      "group": "compile_max_rss",
+      "value": 1.2457122802734375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Plugins/Json/SurfaceJsonConverterTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.2327423095703125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/ProtoLayerHelperTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.2246894836425781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/GenericDetector/src/GenericDetector.cpp",
+      "group": "compile_max_rss",
+      "value": 1.2171516418457031,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/SurfaceArrayCreatorTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.2079734802246094,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Material/SurfaceMaterialMapper.cpp",
+      "group": "compile_max_rss",
+      "value": 1.1999053955078125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Vertexing/src/TutorialVertexFinderAlgorithm.cpp",
+      "group": "compile_max_rss",
+      "value": 1.1735954284667969,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/SurfaceLocalToGlobalRoundtripTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.1642608642578125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Vertexing/GridDensityVertexFinderTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.1431427001953125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/EventData/FreeTrackParametersTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.1416091918945312,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/CuboidVolumeBuilderTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.1410675048828125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/TrackFitting/src/TrackFittingAlgorithm.cpp",
+      "group": "compile_max_rss",
+      "value": 1.135467529296875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/TrackFinding/src/TrackFindingAlgorithm.cpp",
+      "group": "compile_max_rss",
+      "value": 1.1218833923339844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/Benchmarks/EigenStepperBenchmark.cpp",
+      "group": "compile_max_rss",
+      "value": 1.118865966796875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Plugins/Json/src/JsonGeometryConverter.cpp",
+      "group": "compile_max_rss",
+      "value": 1.1155967712402344,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Vertexing/GaussianGridTrackDensityTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.0898399353027344,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Reconstruction/Common/RecCKFTracks.cpp",
+      "group": "compile_max_rss",
+      "value": 1.0895957946777344,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Propagator/LoopProtectionTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.0888824462890625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/Benchmarks/SurfaceIntersectionBenchmark.cpp",
+      "group": "compile_max_rss",
+      "value": 1.08428955078125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Vertexing/TrackDensityVertexFinderTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.0768241882324219,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Reconstruction/Common/RecTruthTracks.cpp",
+      "group": "compile_max_rss",
+      "value": 1.0750541687011719,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/SurfaceIntersectionTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.0602989196777344,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/ProtoLayerTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.0490875244140625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/PlaneSurfaceTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.0487518310546875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/LayerCreatorTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.0417823791503906,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Plugins/Json/src/SurfaceJsonConverter.cpp",
+      "group": "compile_max_rss",
+      "value": 1.037017822265625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/EventData/CurvilinearTrackParametersTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.0319061279296875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Plugins/Digitization/DoubleHitSpacePointBuilderTests.cpp",
+      "group": "compile_max_rss",
+      "value": 1.0167083740234375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Geant4/HepMC/EventRecordingExample.cpp",
+      "group": "compile_max_rss",
+      "value": 1.0125236511230469,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/EventData/TransformFreeToBoundTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.9989356994628906,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Reconstruction/Common/SeedingExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.9987373352050781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Root/src/RootTrajectoryStatesWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.99615478515625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/SurfaceTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.9934005737304688,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Plugins/DD4hep/src/DD4hepLayerBuilder.cpp",
+      "group": "compile_max_rss",
+      "value": 0.9894790649414062,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/DiscSurfaceTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.9891281127929688,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Plugins/TGeo/src/TGeoSurfaceConverter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.9871711730957031,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/EventData/TransformBoundToFreeTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.9743843078613281,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/StrawSurfaceTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.9616012573242188,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/CylinderSurfaceTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.9464035034179688,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Plugins/TGeo/TGeoBBoxConversionTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.9453582763671875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Material/SurfaceMaterialMapperTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.9362106323242188,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/PerigeeSurfaceTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.9232940673828125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Visualization/GeometryView3D.cpp",
+      "group": "compile_max_rss",
+      "value": 0.9187507629394531,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Geant4/DD4hep/DD4hepGeantinoRecording.cpp",
+      "group": "compile_max_rss",
+      "value": 0.9178504943847656,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/Benchmarks/AtlasStepperBenchmark.cpp",
+      "group": "compile_max_rss",
+      "value": 0.9106483459472656,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/TrackFinding/src/TrackFindingOptions.cpp",
+      "group": "compile_max_rss",
+      "value": 0.9078407287597656,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/ConeVolumeBounds.cpp",
+      "group": "compile_max_rss",
+      "value": 0.9070510864257812,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Plugins/DD4hep/src/ConvertDD4hepMaterial.cpp",
+      "group": "compile_max_rss",
+      "value": 0.9044036865234375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Vertexing/AdaptiveGridTrackDensityTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.9021453857421875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Common/src/GeometryExampleBase.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8975715637207031,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/LineSurfaceTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8910102844238281,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/CylinderVolumeHelper.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8864173889160156,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Visualization/PrimitivesView3DTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8855781555175781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Plugins/TGeo/TGeoTubeConversionTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8838272094726562,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/CylinderLayerTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8755722045898438,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Framework/src/Validation/ResPlotTool.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8748931884765625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Propagator/ActionListTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8737525939941406,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Propagator/StraightLineStepperTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8685874938964844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Common/src/CommonGeometry.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8624114990234375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/TruthTracking/ActsExamples/TruthTracking/ParticleSmearing.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8622703552246094,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/ConeLayerTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8619956970214844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Plugins/TGeo/TGeoTrd1ConversionTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8594703674316406,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Plugins/TGeo/TGeoTrd2ConversionTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8562774658203125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Plugins/TGeo/TGeoArb8ConversionTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8557357788085938,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/CylinderVolumeBounds.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8535614013671875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/MaterialMapping/src/MaterialMapping.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8451118469238281,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Digitization/src/PlanarSteppingAlgorithm.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8432960510253906,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/CylinderVolumeBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8405952453613281,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Plugins/TGeo/src/TGeoDetectorElement.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8384857177734375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Fatras/Digitization/PlanarSurfaceMaskTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8369216918945312,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Propagator/CovarianceEngineTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8361282348632812,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/TrackFitting/GainMatrixSmootherTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8360023498535156,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Fatras/Digitization/ChannelizerTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8352699279785156,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/PlaneLayerTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8351402282714844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Reconstruction/Common/RecInput.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8344688415527344,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/GenericApproachDescriptorTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8340492248535156,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/TrackingGeometryClosureTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.831695556640625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Fatras/Digitization/UncorrelatedHitSmearerTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8297538757324219,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/ConeSurfaceTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8291435241699219,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Fatras/Kernel/InteractorTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8271713256835938,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/VerticesHelper.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8262290954589844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/ConeSurface.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8246841430664062,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/TrackingGeometryGeometryIdTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8228263854980469,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/NavigationLayerTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8201560974121094,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/DiscLayerTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8198890686035156,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Root/src/RootTrajectoryParametersWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8194732666015625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/TrapezoidVolumeBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8191299438476562,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/SurfaceArrayTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8180656433105469,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/CylinderLayer.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8174552917480469,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/LayerArrayCreator.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8161811828613281,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/TrapezoidVolumeBounds.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8131103515625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/CylinderSurface.cpp",
+      "group": "compile_max_rss",
+      "value": 0.81072998046875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Performance/ActsExamples/Io/Performance/CKFPerformanceWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8101272583007812,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Plugins/Json/MaterialMapJsonConverterTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8078994750976562,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/TelescopeDetector/src/BuildTelescopeDetector.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8064002990722656,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Root/src/RootTrackParameterWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.805419921875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Plugins/TGeo/TGeoLayerBuilderTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8049774169921875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/CuboidVolumeBuilder.cpp",
+      "group": "compile_max_rss",
+      "value": 0.804595947265625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Plugins/DD4hep/src/ConvertDD4hepDetector.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8029899597167969,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Root/src/RootMaterialDecorator.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8021812438964844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Fatras/Common/FatrasDigitization.cpp",
+      "group": "compile_max_rss",
+      "value": 0.8013381958007812,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/LayerCreator.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7994728088378906,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Plugins/Digitization/src/CartesianSegmentation.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7988510131835938,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Digitization/src/SmearingAlgorithm.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7985115051269531,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Performance/ActsExamples/Io/Performance/TrackFitterPerformanceWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7963829040527344,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/TrackFinding/src/TrackParamsEstimationAlgorithm.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7918968200683594,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Plugins/DD4hep/src/DD4hepVolumeBuilder.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7851333618164062,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Digitization/src/DigitizationOptions.cpp",
+      "group": "compile_max_rss",
+      "value": 0.78448486328125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/TrackingGeometry.cpp",
+      "group": "compile_max_rss",
+      "value": 0.782196044921875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/CylinderVolumeBuilder.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7811317443847656,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/TrackFinding/src/SpacePointMaker.cpp",
+      "group": "compile_max_rss",
+      "value": 0.78094482421875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Propagator/detail/CovarianceEngine.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7784271240234375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/TGeoDetector/src/TGeoDetectorOptions.cpp",
+      "group": "compile_max_rss",
+      "value": 0.777069091796875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Performance/ActsExamples/Io/Performance/TrackFinderPerformanceWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7767257690429688,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Geant4HepMC/src/EventRecording.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7748184204101562,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/SurfaceArrayCreator.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7729034423828125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Geant4/GdmlGeantinoRecording.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7693557739257812,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/NuclearInteractions/src/detail/NuclearInteractionParametrisation.cpp",
+      "group": "compile_max_rss",
+      "value": 0.767608642578125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Csv/src/CsvPlanarClusterReader.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7625465393066406,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Plugins/Json/UtilitiesJsonConverterTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7620468139648438,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/GenericCuboidVolumeBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7618446350097656,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/LineSurface.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7536888122558594,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/TGeoDetector/src/TGeoDetector.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7530441284179688,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/CuboidVolumeBounds.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7521553039550781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/AlignmentContextTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7465896606445312,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Root/src/RootDigitizationWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7463760375976562,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Performance/ActsExamples/Io/Performance/SeedingPerformanceWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7427902221679688,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/EmptyDetector/src/EmptyDetector.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7412948608398438,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/PerigeeSurface.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7345695495605469,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/CuboidVolumeBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.7195892333984375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/DiscLayer.cpp",
+      "group": "compile_max_rss",
+      "value": 0.69476318359375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/Surface.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6923103332519531,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Json/src/JsonSurfacesWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6921577453613281,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/StrawSurface.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6908836364746094,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Fatras/Digitization/PlanarSurfaceDriftTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6878852844238281,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/PlaneSurface.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6859092712402344,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/TrackFitting/src/SurfaceSortingAlgorithm.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6858596801757812,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/DiscSurface.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6842689514160156,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/ConeVolumeBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6799392700195312,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/IntersectionTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6742668151855469,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Propagator/VolumeMaterialInteractionTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6741752624511719,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/TrackingVolumeArrayCreator.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6704635620117188,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/BinAdjustmentTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6702156066894531,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Geant4/src/Geant4Options.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6671257019042969,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Json/src/JsonMaterialWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6639022827148438,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Csv/src/CsvTrackingGeometryWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.659271240234375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/SurfaceBinningMatcherTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6582908630371094,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Framework/src/Validation/FakeRatePlotTool.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6498832702636719,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Visualization/VolumeView3DTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6497116088867188,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Framework/src/Validation/TrackSummaryPlotTool.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6462173461914062,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/ConeLayer.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6372108459472656,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Geant4/src/GeantinoRecording.cpp",
+      "group": "compile_max_rss",
+      "value": 0.630706787109375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Root/src/RootPlanarClusterWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6302719116210938,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/TruthTracking/ActsExamples/TruthTracking/TrackSelector.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6293067932128906,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Visualization/EventDataView3D.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6276931762695312,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/GridTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6249046325683594,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/TrackFinding/src/SeedingAlgorithm.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6227073669433594,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/CutoutCylinderVolumeBounds.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6219215393066406,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Plugins/TGeo/src/TGeoLayerBuilder.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6203498840332031,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Geant4/src/SteppingAction.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6194190979003906,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/BinUtilityTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6171722412109375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Root/src/RootMaterialWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6140594482421875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/EventData/MeasurementHelpersTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6139411926269531,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Geant4/src/EventAction.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6136398315429688,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Plugins/Digitization/CartesianSegmentationTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6129341125488281,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Propagator/StraightLineStepper.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6107444763183594,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/GenericDetector/src/GenericDetectorElement.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6048126220703125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/EventData/NeutralTrackParameters.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6031379699707031,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/TelescopeDetector/src/TelescopeDetectorElement.cpp",
+      "group": "compile_max_rss",
+      "value": 0.6023979187011719,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Root/src/RootMaterialTrackReader.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5957260131835938,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Csv/src/CsvPlanarClusterWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5898208618164062,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/CutoutCylinderVolumeBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.589141845703125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Printers/ActsExamples/Printers/TrackParametersPrinter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5873260498046875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Fatras/Digitization/ChannelMergerTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5871772766113281,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/VolumeTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5844612121582031,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/BoundaryCheckTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5835456848144531,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Obj/src/ObjTrackingGeometryWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5809898376464844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/PassiveLayerBuilder.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5742301940917969,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Plugins/Json/src/UtilitiesJsonConverter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5716094970703125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/BinAdjustmentVolumeTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5708465576171875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Plugins/TGeo/TGeoParserTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5648422241210938,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Framework/src/Validation/DuplicationPlotTool.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5646896362304688,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/PlaneLayer.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5612335205078125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/ContextualDetector/src/PayloadDecorator.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5601348876953125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/PolyhedronTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5551528930664062,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/MagneticField/BFieldExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5540351867675781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Material/MaterialGridHelperTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5515937805175781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/GeneratorsPythia8/ActsExamples/Generators/Pythia8ProcessGenerator.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5494956970214844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Digitization/src/HitSmearing.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5470428466796875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/FCChh/FCChhTrackerTkLayout_Endcap.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5405426025390625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Propagator/AbortListTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.539337158203125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Fatras/src/Digitization/PlanarSurfaceDrift.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5388984680175781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/FCChh/FCChhTrackerTkLayout_Barrel.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5345954895019531,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/GlueVolumesDescriptor.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5296287536621094,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/MagneticField/BFieldAccessExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5292091369628906,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/GenericDetector/src/BuildGenericDetector.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5289382934570312,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/Benchmarks/BinUtilityBenchmark.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5269317626953125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/GeneratorsPythia8/ActsExamples/Options/Pythia8Options.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5163993835449219,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/DD4hepDetector.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5149688720703125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/TruthTracking/ActsExamples/TruthTracking/ParticleSelector.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5143203735351562,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/TrackingGeometryBuilder.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5140037536621094,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Material/InterpolatedMaterialMapTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5107688903808594,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/DetUtils.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5106239318847656,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/AbstractVolume.cpp",
+      "group": "compile_max_rss",
+      "value": 0.5065727233886719,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Material/ProtoSurfaceMaterialTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.50177001953125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Fatras/src/FatrasOptions.cpp",
+      "group": "compile_max_rss",
+      "value": 0.49853515625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/TelescopeDetector/src/TelescopeDetector.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4975013732910156,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/ConvexPolygonBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4916343688964844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/ProtoLayer.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4895973205566406,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/ContextualDetector/src/AlignmentDecorator.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4892578125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/AnnulusBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4888343811035156,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/ProtoLayerHelper.cpp",
+      "group": "compile_max_rss",
+      "value": 0.48766326904296875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/SimpleGeometryTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4868278503417969,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/EventData/TrackParameters.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4862174987792969,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/EventData/MeasurementTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4858055114746094,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/AxesTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4855690002441406,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/EventData/PrintParameters.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4851951599121094,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Geant4/src/RunAction.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4838066101074219,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Material/ProtoVolumeMaterialTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.481903076171875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Material/BinnedSurfaceMaterialTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4807167053222656,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/BFieldMapUtilsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4799041748046875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Material/AccumulatedSurfaceMaterialTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.47785186767578125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Framework/src/Validation/TrackClassification.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4759712219238281,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/DD4hepGeometryService.cpp",
+      "group": "compile_max_rss",
+      "value": 0.47568511962890625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Common/src/CommonOptions.cpp",
+      "group": "compile_max_rss",
+      "value": 0.474365234375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/EventData/TransformationFreeToBound.cpp",
+      "group": "compile_max_rss",
+      "value": 0.47356414794921875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Plugins/Json/AlgebraJsonConverterTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4731292724609375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/HelpersTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4725379943847656,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Root/src/RootMaterialTrackWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4684906005859375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Plugins/Digitization/src/PlanarModuleStepper.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4634590148925781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Fatras/Physics/ScatteringTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.46143341064453125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/AlignmentHelperTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4598655700683594,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Plugins/Json/SurfaceBoundsJsonConverterTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4587669372558594,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/MagneticField/src/BFieldOptions.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4577178955078125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Root/src/RootPropagationStepsWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4540596008300781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Plugins/DD4hep/src/DD4hepDetectorElement.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4512519836425781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/NavigationLayer.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4503173828125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/Layer.cpp",
+      "group": "compile_max_rss",
+      "value": 0.44948577880859375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Fatras/src/Digitization/Channelizer.cpp",
+      "group": "compile_max_rss",
+      "value": 0.449127197265625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/DD4hepDetectorHelper.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4472923278808594,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/Volume.cpp",
+      "group": "compile_max_rss",
+      "value": 0.44635009765625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Generators/Pythia8/Pythia8.cpp",
+      "group": "compile_max_rss",
+      "value": 0.44557952880859375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/GenericApproachDescriptor.cpp",
+      "group": "compile_max_rss",
+      "value": 0.444671630859375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Visualization/Visualization3DTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4443244934082031,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Generators/ActsExamples/Options/ParticleGunOptions.cpp",
+      "group": "compile_max_rss",
+      "value": 0.439300537109375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Material/MaterialGridHelper.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4391288757324219,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Plugins/Json/src/AlgebraJsonConverter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.43683624267578125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Plugins/Json/GeometryHierarchyMapJsonConverterTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.436279296875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/AnnulusBounds.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4360466003417969,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Csv/src/CsvSimHitReader.cpp",
+      "group": "compile_max_rss",
+      "value": 0.426544189453125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Fatras/src/Digitization/PlanarSurfaceMask.cpp",
+      "group": "compile_max_rss",
+      "value": 0.42240142822265625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/MagneticField/InterpolatedBFieldMapTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4199676513671875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/TruthTracking/ActsExamples/TruthTracking/TruthSeedSelector.cpp",
+      "group": "compile_max_rss",
+      "value": 0.416717529296875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/RectangleBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.415283203125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/CylinderBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4127769470214844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/DiamondBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4120979309082031,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/TrapezoidBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4093475341796875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/FiniteStateMachineTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.40911865234375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/DiscTrapezoidBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4086151123046875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/HepMC/src/HepMCProcessExtractor.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4022407531738281,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/Demonstrator/DemonstratorBarrel_geo.cpp",
+      "group": "compile_max_rss",
+      "value": 0.4010276794433594,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/VerticesHelperTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3985748291015625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Generators/ActsExamples/Generators/EventGenerator.cpp",
+      "group": "compile_max_rss",
+      "value": 0.39765167236328125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/HepMC3/HepMC3Example.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3970146179199219,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/OpenDataDetector/ODDPixelEndcap_geo.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3931770324707031,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/ConeBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.391448974609375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Material/AccumulatedSurfaceMaterial.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3906974792480469,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/ExtentTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3884124755859375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Material/MaterialMapUtils.cpp",
+      "group": "compile_max_rss",
+      "value": 0.38574981689453125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/BinningDataTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.38245391845703125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Propagator/detail/PointwiseMaterialInteraction.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3821754455566406,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Vertexing/Pythia8/VertexFitterExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.38143157958984375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/OpenDataDetector/ODDCylinder_geo.cpp",
+      "group": "compile_max_rss",
+      "value": 0.37841796875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/VolumeBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.377227783203125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Vertexing/Pythia8/IterativeVertexFinderExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3752593994140625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/LineBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3735466003417969,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Show/ShowFatrasGeneric.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3730506896972656,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/OpenDataDetector/ODDStripEndcap_geo.cpp",
+      "group": "compile_max_rss",
+      "value": 0.37255096435546875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/CylinderVolumeBuilderTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3700523376464844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/RadialBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.368255615234375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/HepMC3/HepMC3HistogramExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.36748504638671875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Material/ProtoVolumeMaterial.cpp",
+      "group": "compile_max_rss",
+      "value": 0.36578369140625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/Calorimeter/Calorimeter_barrel.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3626289367675781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/IntegrationTests/InterpolatedSolenoidBFieldTest.cpp",
+      "group": "compile_max_rss",
+      "value": 0.361480712890625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Vertexing/Pythia8/TutorialVertexFinderExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.36046600341796875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/Benchmarks/BoundaryCheckBenchmark.cpp",
+      "group": "compile_max_rss",
+      "value": 0.35980224609375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Seeding/SeedfinderTest.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3575630187988281,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/InfiniteBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.356842041015625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Fatras/Selectors/SelectorHelpersTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3556671142578125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/RayTest.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3525543212890625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Vertexing/Pythia8/AdaptiveMultiVertexFinderExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3482246398925781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/EllipseBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3471641540527344,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/EventData/TransformationBoundToFree.cpp",
+      "group": "compile_max_rss",
+      "value": 0.34664154052734375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Csv/src/CsvOptionsWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3447914123535156,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Csv/src/CsvParticleReader.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3433036804199219,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/TruthTracking/ActsExamples/TruthTracking/TruthTrackFinder.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3392524719238281,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/PeriodicTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3390846252441406,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/VolumeBounds.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3367462158203125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Vertexing/VertexFinderReaderExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3350067138671875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Fatras/EventData/ParticleTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3325691223144531,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/Benchmarks/AnnulusBoundsBenchmark.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3320770263671875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/TrapezoidBounds.cpp",
+      "group": "compile_max_rss",
+      "value": 0.329345703125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/DiscTrapezoidBounds.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3288612365722656,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/UnitVectorsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.32848358154296875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Fatras/Kernel/ProcessTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3261604309082031,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Utilities/BinUtility.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3257408142089844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Show/ShowParticles.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3242454528808594,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Plugins/Digitization/ClusterizationTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.32315826416015625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Framework/src/Framework/Sequencer.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3219642639160156,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Fatras/Kernel/PointLikePhysicsListTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3212699890136719,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Material/InteractionsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3211097717285156,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/TestTracker/Endcap_geo.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3210945129394531,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/HepMC3/src/HepMC3Event.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3207817077636719,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/RectangleBounds.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3203887939453125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Material/MaterialTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3197441101074219,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/SurfaceArray.cpp",
+      "group": "compile_max_rss",
+      "value": 0.31970977783203125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Fatras/Kernel/PhysicsListTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3195533752441406,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/HepMC3/src/HepMC3Options.cpp",
+      "group": "compile_max_rss",
+      "value": 0.314544677734375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Material/AverageMaterialsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3130455017089844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/MagneticField/ConstantBFieldTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3120918273925781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/CylinderBounds.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3105735778808594,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Fatras/Selectors/KinematicCastsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3105125427246094,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Csv/src/CsvParticleWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3104209899902344,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/ResultTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3097038269042969,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/NuclearInteractions/src/RootNuclearInteractionParametersWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.30889129638671875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Generators/ParticleGun.cpp",
+      "group": "compile_max_rss",
+      "value": 0.307861328125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Definitions/UnitsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.30757904052734375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Fatras/EventData/HitTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3068046569824219,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Material/MaterialCompositionTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.306243896484375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Material/AccumulatedMaterialSlabTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.30548858642578125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/MagneticField/SolenoidBField.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3053779602050781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Plugins/Json/src/SurfaceBoundsJsonConverter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3051948547363281,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Root/src/RootSimHitWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3048896789550781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/EventData/ChargeTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3046875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Fatras/Selectors/ChargeSelectorsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3045654296875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Geant4HepMC/src/SteppingAction.cpp",
+      "group": "compile_max_rss",
+      "value": 0.30438232421875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/Benchmarks/SolenoidFieldBenchmark.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3041877746582031,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/HepMC3/src/HepMC3Vertex.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3040008544921875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Fatras/Common/Fatras.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3036842346191406,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Printers/ActsExamples/Printers/ParticlesPrinter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3033447265625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Fatras/Selectors/PdgSelectorsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3030128479003906,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Framework/src/Validation/EffPlotTool.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3029899597167969,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Framework/src/Utilities/Paths.cpp",
+      "group": "compile_max_rss",
+      "value": 0.30292510986328125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/MagneticField/BFieldMapUtils.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3025779724121094,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Plugins/TGeo/src/TGeoParser.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3020362854003906,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Material/AccumulatedVolumeMaterialTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3019371032714844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/Polyhedron.cpp",
+      "group": "compile_max_rss",
+      "value": 0.30133056640625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/TelescopeDetector/src/TelescopeDetectorOptions.cpp",
+      "group": "compile_max_rss",
+      "value": 0.30121612548828125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Csv/src/CsvOptionsReader.cpp",
+      "group": "compile_max_rss",
+      "value": 0.3003425598144531,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/EllipseBounds.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2989234924316406,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/RealQuadraticEquationTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2960700988769531,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Fatras/Common/FatrasInput.cpp",
+      "group": "compile_max_rss",
+      "value": 0.29450225830078125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/AnnealingUtilityTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.292694091796875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Geant4HepMC/src/EventAction.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2906150817871094,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/IntersectionHelper2DTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2891731262207031,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/TruthTracking/ActsExamples/TruthTracking/TruthVertexFinder.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2882804870605469,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/MagneticField/MagneticFieldInterfaceConsistencyTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2881584167480469,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/RadialBounds.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2881431579589844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Root/src/RootParticleWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.28804779052734375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/OpenDataDetector/ODDStripBarrel_geo.cpp",
+      "group": "compile_max_rss",
+      "value": 0.28780364990234375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/ConeBounds.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2873115539550781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Printers/ActsExamples/Printers/HitsPrinter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.286773681640625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/OpenDataDetector/ODDPixelBarrel_geo.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2858772277832031,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/MagneticField/src/BFieldUtils.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2854270935058594,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/LineBounds.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2771759033203125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/LoggerTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.27678680419921875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/MultiIndexTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2718086242675781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/Csv/src/CsvSimHitWriter.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2653083801269531,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Material/HomogeneousVolumeMaterialTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2639617919921875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/Extent.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2590675354003906,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/IntegrationTests/Legacy/ATLSeedingIntegrationTest.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2590522766113281,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Material/ProtoSurfaceMaterial.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2586021423339844,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/InterpolationTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2580299377441406,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/MagneticField/SolenoidBFieldTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2573661804199219,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Material/BinnedSurfaceMaterial.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2503242492675781,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Geant4DD4hep/src/DD4hepDetectorConstruction.cpp",
+      "group": "compile_max_rss",
+      "value": 0.24240875244140625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Fatras/Utilities/ParticleDataTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.24068069458007812,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/HepMC3/src/HepMC3Particle.cpp",
+      "group": "compile_max_rss",
+      "value": 0.23885345458984375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/TypeTraitsTest.cpp",
+      "group": "compile_max_rss",
+      "value": 0.22176742553710938,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Surfaces/SurfaceBoundsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.22013473510742188,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/FCChh/FCChhTrackerTkLayout_Beampipe.cpp",
+      "group": "compile_max_rss",
+      "value": 0.2158966064453125,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Plugins/DD4hep/src/ActsExtension.cpp",
+      "group": "compile_max_rss",
+      "value": 0.21246337890625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Material/HomogeneousSurfaceMaterialTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.21046066284179688,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Plugins/TGeo/TGeoPrimitivesHelperTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.1951904296875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Geant4HepMC/src/PrimaryGeneratorAction.cpp",
+      "group": "compile_max_rss",
+      "value": 0.18930816650390625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/GeometryIdentifierTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.17976760864257812,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Fatras/EventData/BarcodeTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.17576980590820312,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/ConvexPolygonBounds.cpp",
+      "group": "compile_max_rss",
+      "value": 0.172271728515625,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Material/MaterialSlabTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.16552734375,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/TestTracker/Barrel_geo.cpp",
+      "group": "compile_max_rss",
+      "value": 0.16431045532226562,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Geant4HepMC/src/RunAction.cpp",
+      "group": "compile_max_rss",
+      "value": 0.15905380249023438,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Propagator/AuctioneerTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.13196182250976562,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/HepMC3/src/HepMC3Writer.cpp",
+      "group": "compile_max_rss",
+      "value": 0.11751937866210938,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Material/AccumulatedMaterialSlab.cpp",
+      "group": "compile_max_rss",
+      "value": 0.11452865600585938,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/IntersectionHelper2D.cpp",
+      "group": "compile_max_rss",
+      "value": 0.09979248046875,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Benchmarks/BenchmarkTools.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/detail/AlignmentHelper.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Material/MaterialSlab.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Fatras/Physics/EnergyLossTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/TestTracker/SimpleLayeredCylinder_geo.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Material/HomogeneousVolumeMaterial.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Plugins/Digitization/SingleHitSpacePointBuilderTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Material/Material.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Geometry/GeometryIdentifier.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Visualization/IVisualization3D.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/Demonstrator/DemonstratorBeamPipe_geo.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Material/AverageMaterials.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Plugins/Digitization/PlanarModuleStepperTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/TrackFitting/src/TrackFittingOptions.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/IBL/IBLSimpleBarrel_geo.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/DiamondBounds.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Surfaces/SurfaceError.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Material/HomogeneousSurfaceMaterial.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/TestTracker/AirTube_geo.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Material/AccumulatedVolumeMaterial.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Propagator/PropagatorError.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Fatras/Common/FatrasSimulation.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Material/Interactions.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/OpenDataDetector/ODDModuleHelper.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Misc/TabulateEnergyLoss.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/TestTracker/BeamPipe_geo.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Geometry/DD4hep/DD4hepGeometryExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Reconstruction/DD4hep/DD4hepSeedingExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Reconstruction/DD4hep/DD4hepRecCKFTracks.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/CommonHelpers/Acts/Tests/CommonHelpers/DataDirectory.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/CommonHelpers/Acts/Tests/CommonHelpers/TestSourceLink.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/HelloWorld/HelloRandomAlgorithm.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/HelloWorld/HelloLoggerAlgorithm.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/IntegrationTests/PrintDataDirectory.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Geant4/src/GdmlDetectorConstruction.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/HelloWorld/HelloWhiteBoardAlgorithm.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/HelloWorld/HelloWorld.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Generators/ActsExamples/Generators/ParametricParticleGenerator.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Geometry/EmptyGeometryExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Geometry/PayloadGeometryExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Geometry/TelescopeGeometryExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/VersionTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Geometry/TGeoGeometryExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Reconstruction/DD4hep/DD4hepRecTruthTracks.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/HelloWorld/HelloService.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Geometry/AlignedGeometryExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/MaterialMapping/GenericMaterialValidation.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Misc/CustomDefaultLogger.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/MaterialMapping/TGeo/TGeoMaterialMapping.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/MaterialMapping/GenericMaterialMapping.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/MaterialMapping/DD4hep/DD4hepMaterialMapping.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Propagation/GenericPropagationExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Propagation/AlignedPropagationExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Propagation/EmptyDetectorPropagationExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Propagation/TGeoPropagationExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Reconstruction/GenericRecTruthTracks.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Propagation/PayloadPropagationExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Propagation/DD4hep/DD4hepPropagationExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/MaterialMapping/DD4hep/DD4hepMaterialValidation.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Reconstruction/TelescopeRecCKFTracks.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Reconstruction/TelescopeRecTruthTracks.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Reconstruction/GenericRecCKFTracks.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Reconstruction/GenericSeedingExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Geometry/GenericGeometryExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/GeometryHierarchyMapTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/MaterialMapUtilsTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Vertexing/FsmwMode1dFinder.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/MPLTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Framework/src/Framework/BareAlgorithm.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Framework/src/Utilities/Options.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Utilities/ExtendableTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Plugins/Digitization/src/DigitizationModule.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Framework/src/Framework/BareService.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Vertexing/VertexingError.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/MagneticField/src/BFieldScalor.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Framework/src/Framework/RandomNumbers.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Utilities/Logger.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/TestTracker/ZPlanarTracker_geo.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/TKLayout/TKLayoutBarrel_geo.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/TrackFitting/KalmanFitterError.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Utilities/AnnealingUtility.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/TrackFinding/CombinatorialKalmanFilterError.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Detectors/DD4hepDetector/src/TKLayout/TKLayoutEndcap_geo.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Fatras/src/Kernel/SimulatorError.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Fatras/src/EventData/ProcessType.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Fatras/DD4hep/DD4hepFatrasExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Fatras/src/Utilities/LandauDistribution.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Algorithms/Geant4/src/PrimaryGeneratorAction.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Fatras/GenericFatrasExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Fatras/AlignedFatrasExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Fatras/PayloadFatrasExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Fatras/TGeoFatrasExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/Fatras/TelescopeFatrasExample.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Fatras/src/Utilities/ParticleData.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Propagator/ConstrainedStepTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Framework/src/Utilities/Helpers.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Fatras/src/Physics/StandardPhysicsLists.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Tests/UnitTests/Core/Geometry/LayerTests.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Io/HepMC3/src/HepMC3Reader.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Fatras/src/EventData/Particle.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Fatras/src/Digitization/DigitizationError.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Plugins/TGeo/src/TGeoPrimitivesHelper.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Examples/Run/MaterialMapping/TGeo/TGeoMaterialValidation.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "max_rss_Core/src/Propagator/EigenStepperError.cpp",
+      "group": "compile_max_rss",
+      "value": 0.0,
+      "unit": "GB"
+    },
+    {
+      "name": "time_Examples/Algorithms/TrackFitting/src/TrackFittingAlgorithmFunction.cpp",
+      "group": "compile_time",
+      "value": 138.110657,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/TrackFinding/src/TrackFindingAlgorithmFunction.cpp",
+      "group": "compile_time",
+      "value": 129.381656,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Common/src/PropagationExampleBase.cpp",
+      "group": "compile_time",
+      "value": 102.556351,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/TrackFinding/CombinatorialKalmanFilterTests.cpp",
+      "group": "compile_time",
+      "value": 99.268111,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/TrackFitting/KalmanFitterTests.cpp",
+      "group": "compile_time",
+      "value": 97.514315,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Fatras/Common/FatrasSimulation.cpp",
+      "group": "compile_time",
+      "value": 88.142128,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Common/src/MaterialValidationBase.cpp",
+      "group": "compile_time",
+      "value": 84.941259,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Visualization/EventDataView3DTests.cpp",
+      "group": "compile_time",
+      "value": 77.217281,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Propagator/StepperTests.cpp",
+      "group": "compile_time",
+      "value": 74.880009,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Vertexing/AdaptiveMultiVertexFinderTests.cpp",
+      "group": "compile_time",
+      "value": 64.474404,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Vertexing/src/AdaptiveMultiVertexFinderAlgorithm.cpp",
+      "group": "compile_time",
+      "value": 60.552165,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Propagator/MaterialCollectionTests.cpp",
+      "group": "compile_time",
+      "value": 57.992666,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/IntegrationTests/PropagationDenseConstant.cpp",
+      "group": "compile_time",
+      "value": 57.104968,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Propagator/ExtrapolatorTests.cpp",
+      "group": "compile_time",
+      "value": 56.727493,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/TrackFitting/GainMatrixUpdaterTests.cpp",
+      "group": "compile_time",
+      "value": 56.211814,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/IntegrationTests/Autodiff/PropagationAutodiffDenseConstant.cpp",
+      "group": "compile_time",
+      "value": 55.421755,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/IntegrationTests/Fatras/FatrasSimulationTests.cpp",
+      "group": "compile_time",
+      "value": 54.74628,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Vertexing/IterativeVertexFinderTests.cpp",
+      "group": "compile_time",
+      "value": 52.183861,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Vertexing/src/IterativeVertexFinderAlgorithm.cpp",
+      "group": "compile_time",
+      "value": 51.552001,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Propagator/DirectNavigatorTests.cpp",
+      "group": "compile_time",
+      "value": 50.506449,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Vertexing/AdaptiveMultiVertexFitterTests.cpp",
+      "group": "compile_time",
+      "value": 47.836538,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Propagator/KalmanExtrapolatorTests.cpp",
+      "group": "compile_time",
+      "value": 47.570197,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Vertexing/src/VertexFitterAlgorithm.cpp",
+      "group": "compile_time",
+      "value": 46.293071,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/BoundingBoxTest.cpp",
+      "group": "compile_time",
+      "value": 46.24282,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/IntegrationTests/Autodiff/PropagationAutodiffConstant.cpp",
+      "group": "compile_time",
+      "value": 45.82869,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/SubspaceTests.cpp",
+      "group": "compile_time",
+      "value": 45.800517,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Seeding/EstimateTrackParamsFromSeedTest.cpp",
+      "group": "compile_time",
+      "value": 45.376135,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/IntegrationTests/PropagationEigenConstant.cpp",
+      "group": "compile_time",
+      "value": 45.214934,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/IntegrationTests/Autodiff/PropagationCompareAtlasAutodiffConstant.cpp",
+      "group": "compile_time",
+      "value": 43.576362,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/IntegrationTests/PropagationCompareAtlasEigenConstant.cpp",
+      "group": "compile_time",
+      "value": 43.285928,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Vertexing/KalmanVertexTrackUpdaterTests.cpp",
+      "group": "compile_time",
+      "value": 42.227791,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Vertexing/FullBilloirVertexFitterTests.cpp",
+      "group": "compile_time",
+      "value": 41.887781,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/TrackingVolume.cpp",
+      "group": "compile_time",
+      "value": 41.714608,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/EventData/MultiTrajectoryTests.cpp",
+      "group": "compile_time",
+      "value": 40.079859,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/IntegrationTests/PropagationStraightLine.cpp",
+      "group": "compile_time",
+      "value": 39.239315,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Vertexing/KalmanVertexUpdaterTests.cpp",
+      "group": "compile_time",
+      "value": 37.950927,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Propagator/NavigatorTests.cpp",
+      "group": "compile_time",
+      "value": 37.336251,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/IntegrationTests/PropagationAtlasConstant.cpp",
+      "group": "compile_time",
+      "value": 37.157428,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/IntegrationTests/Autodiff/PropagationCompareEigenAutodiff.cpp",
+      "group": "compile_time",
+      "value": 35.925564,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/GenericCuboidVolumeBounds.cpp",
+      "group": "compile_time",
+      "value": 34.65679,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Vertexing/LinearizedTrackFactoryTests.cpp",
+      "group": "compile_time",
+      "value": 33.937253,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/SurfaceArrayCreatorTests.cpp",
+      "group": "compile_time",
+      "value": 33.51488,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Propagator/PropagatorTests.cpp",
+      "group": "compile_time",
+      "value": 33.054012,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Vertexing/ZScanVertexFinderTests.cpp",
+      "group": "compile_time",
+      "value": 32.626995,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Visualization/SurfaceView3DTests.cpp",
+      "group": "compile_time",
+      "value": 32.475471,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Propagator/AtlasStepperTests.cpp",
+      "group": "compile_time",
+      "value": 31.633971,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Material/VolumeMaterialMapperTests.cpp",
+      "group": "compile_time",
+      "value": 30.928027,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/GenericDetector/src/GenericDetector.cpp",
+      "group": "compile_time",
+      "value": 30.382348,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Material/VolumeMaterialMapper.cpp",
+      "group": "compile_time",
+      "value": 30.160492,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/TrackingVolumeTests.cpp",
+      "group": "compile_time",
+      "value": 29.92873,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/ContextualDetector/src/AlignedDetector.cpp",
+      "group": "compile_time",
+      "value": 29.542653,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/IntegrationTests/PropagationCompareEigenStraightLine.cpp",
+      "group": "compile_time",
+      "value": 29.359912,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Vertexing/ImpactPointEstimatorTests.cpp",
+      "group": "compile_time",
+      "value": 29.179241,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/ContextualDetector/src/PayloadDetector.cpp",
+      "group": "compile_time",
+      "value": 28.676093,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/ProtoLayerHelperTests.cpp",
+      "group": "compile_time",
+      "value": 28.559627,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Propagator/StraightLineStepperTests.cpp",
+      "group": "compile_time",
+      "value": 28.44892,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/EventData/BoundTrackParametersTests.cpp",
+      "group": "compile_time",
+      "value": 28.391921,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/TrackingGeometryCreationTests.cpp",
+      "group": "compile_time",
+      "value": 28.158108,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/SurfaceIntersectionTests.cpp",
+      "group": "compile_time",
+      "value": 27.501772,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/IntegrationTests/BVHNavigationTest.cpp",
+      "group": "compile_time",
+      "value": 26.861719,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Common/src/MaterialMappingBase.cpp",
+      "group": "compile_time",
+      "value": 26.810363,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Material/SurfaceMaterialMapper.cpp",
+      "group": "compile_time",
+      "value": 26.545809,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/FrustumTest.cpp",
+      "group": "compile_time",
+      "value": 26.442891,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/GridTests.cpp",
+      "group": "compile_time",
+      "value": 26.31092,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Propagator/JacobianTests.cpp",
+      "group": "compile_time",
+      "value": 25.891092,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/Benchmarks/RayFrustumBenchmark.cpp",
+      "group": "compile_time",
+      "value": 25.589089,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/SurfaceLocalToGlobalRoundtripTests.cpp",
+      "group": "compile_time",
+      "value": 25.583168,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Plugins/Json/src/JsonGeometryConverter.cpp",
+      "group": "compile_time",
+      "value": 25.554319,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/EventData/FreeTrackParametersTests.cpp",
+      "group": "compile_time",
+      "value": 25.230511,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Visualization/TrackingGeometryView3DTests.cpp",
+      "group": "compile_time",
+      "value": 25.194577,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/EventData/CurvilinearTrackParametersTests.cpp",
+      "group": "compile_time",
+      "value": 24.627466,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/CuboidVolumeBuilderTests.cpp",
+      "group": "compile_time",
+      "value": 24.282532,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Vertexing/GridDensityVertexFinderTests.cpp",
+      "group": "compile_time",
+      "value": 24.214215,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Vertexing/TrackDensityVertexFinderTests.cpp",
+      "group": "compile_time",
+      "value": 23.704174,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/Benchmarks/SurfaceIntersectionBenchmark.cpp",
+      "group": "compile_time",
+      "value": 23.700097,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Vertexing/GaussianGridTrackDensityTests.cpp",
+      "group": "compile_time",
+      "value": 23.429227,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/ProtoLayerTests.cpp",
+      "group": "compile_time",
+      "value": 23.338358,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/LayerCreatorTests.cpp",
+      "group": "compile_time",
+      "value": 23.092455,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/CylinderSurfaceTests.cpp",
+      "group": "compile_time",
+      "value": 23.078957,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/Benchmarks/EigenStepperBenchmark.cpp",
+      "group": "compile_time",
+      "value": 22.888235,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/PlaneSurfaceTests.cpp",
+      "group": "compile_time",
+      "value": 22.840185,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/DiscSurfaceTests.cpp",
+      "group": "compile_time",
+      "value": 22.561062,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/LineSurfaceTests.cpp",
+      "group": "compile_time",
+      "value": 22.512444,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Plugins/Json/SurfaceJsonConverterTests.cpp",
+      "group": "compile_time",
+      "value": 22.39659,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/TrackFinding/src/TrackFindingAlgorithm.cpp",
+      "group": "compile_time",
+      "value": 22.366932,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Propagator/LoopProtectionTests.cpp",
+      "group": "compile_time",
+      "value": 22.348832,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/TrackFitting/GainMatrixSmootherTests.cpp",
+      "group": "compile_time",
+      "value": 22.262542,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/SurfaceArrayCreator.cpp",
+      "group": "compile_time",
+      "value": 22.145305,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Material/SurfaceMaterialMapperTests.cpp",
+      "group": "compile_time",
+      "value": 22.076852,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Vertexing/src/TutorialVertexFinderAlgorithm.cpp",
+      "group": "compile_time",
+      "value": 21.961987,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/EventData/TransformBoundToFreeTests.cpp",
+      "group": "compile_time",
+      "value": 21.763185,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/SurfaceTests.cpp",
+      "group": "compile_time",
+      "value": 21.675,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/EventData/TransformFreeToBoundTests.cpp",
+      "group": "compile_time",
+      "value": 21.383926,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Plugins/Json/src/SurfaceJsonConverter.cpp",
+      "group": "compile_time",
+      "value": 21.314531,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Root/src/RootTrajectoryStatesWriter.cpp",
+      "group": "compile_time",
+      "value": 21.237254,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/ConeVolumeBounds.cpp",
+      "group": "compile_time",
+      "value": 21.006877,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Vertexing/AdaptiveGridTrackDensityTests.cpp",
+      "group": "compile_time",
+      "value": 20.782476,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/StrawSurfaceTests.cpp",
+      "group": "compile_time",
+      "value": 20.703142,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Plugins/Digitization/DoubleHitSpacePointBuilderTests.cpp",
+      "group": "compile_time",
+      "value": 20.687269,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Reconstruction/Common/RecCKFTracks.cpp",
+      "group": "compile_time",
+      "value": 20.122755,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Plugins/TGeo/src/TGeoSurfaceConverter.cpp",
+      "group": "compile_time",
+      "value": 20.103144,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/TrackFitting/src/TrackFittingAlgorithm.cpp",
+      "group": "compile_time",
+      "value": 20.022579,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/PerigeeSurfaceTests.cpp",
+      "group": "compile_time",
+      "value": 19.856499,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Plugins/DD4hep/src/ConvertDD4hepMaterial.cpp",
+      "group": "compile_time",
+      "value": 19.647307,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Fatras/Digitization/PlanarSurfaceMaskTests.cpp",
+      "group": "compile_time",
+      "value": 19.382144,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/TrackingGeometryGeometryIdTests.cpp",
+      "group": "compile_time",
+      "value": 19.356177,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/CylinderVolumeHelper.cpp",
+      "group": "compile_time",
+      "value": 19.158962,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Plugins/DD4hep/src/DD4hepLayerBuilder.cpp",
+      "group": "compile_time",
+      "value": 19.137808,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Performance/ActsExamples/Io/Performance/TrackFinderPerformanceWriter.cpp",
+      "group": "compile_time",
+      "value": 19.056774,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/LayerArrayCreator.cpp",
+      "group": "compile_time",
+      "value": 18.865361,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Plugins/Digitization/SingleHitSpacePointBuilderTests.cpp",
+      "group": "compile_time",
+      "value": 18.822581,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/CylinderVolumeBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 18.5948,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Digitization/src/PlanarSteppingAlgorithm.cpp",
+      "group": "compile_time",
+      "value": 18.580649,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/TrackingGeometryClosureTests.cpp",
+      "group": "compile_time",
+      "value": 18.509905,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/ConeSurfaceTests.cpp",
+      "group": "compile_time",
+      "value": 18.394086,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/VerticesHelper.cpp",
+      "group": "compile_time",
+      "value": 18.39203,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Visualization/PrimitivesView3DTests.cpp",
+      "group": "compile_time",
+      "value": 18.316952,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/GenericApproachDescriptorTests.cpp",
+      "group": "compile_time",
+      "value": 18.264357,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Plugins/TGeo/TGeoBBoxConversionTests.cpp",
+      "group": "compile_time",
+      "value": 18.226178,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Csv/src/CsvTrackingGeometryWriter.cpp",
+      "group": "compile_time",
+      "value": 18.170713,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Digitization/src/SmearingAlgorithm.cpp",
+      "group": "compile_time",
+      "value": 18.095836,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Reconstruction/Common/RecTruthTracks.cpp",
+      "group": "compile_time",
+      "value": 17.930994,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/CylinderLayerTests.cpp",
+      "group": "compile_time",
+      "value": 17.911465,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/LayerCreator.cpp",
+      "group": "compile_time",
+      "value": 17.904184,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/Benchmarks/AtlasStepperBenchmark.cpp",
+      "group": "compile_time",
+      "value": 17.884186,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Visualization/GeometryView3D.cpp",
+      "group": "compile_time",
+      "value": 17.76363,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/TrapezoidVolumeBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 17.742972,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Reconstruction/Common/SeedingExample.cpp",
+      "group": "compile_time",
+      "value": 17.678727,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/DiscLayerTests.cpp",
+      "group": "compile_time",
+      "value": 17.667022,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/TelescopeDetector/src/BuildTelescopeDetector.cpp",
+      "group": "compile_time",
+      "value": 17.637225,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Propagator/CovarianceEngineTests.cpp",
+      "group": "compile_time",
+      "value": 17.625042,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/SurfaceArrayTests.cpp",
+      "group": "compile_time",
+      "value": 17.603132,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/CylinderVolumeBuilder.cpp",
+      "group": "compile_time",
+      "value": 17.599714,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Fatras/Digitization/ChannelizerTests.cpp",
+      "group": "compile_time",
+      "value": 17.538269,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/EventData/MeasurementTests.cpp",
+      "group": "compile_time",
+      "value": 17.42408,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/CylinderVolumeBounds.cpp",
+      "group": "compile_time",
+      "value": 17.378672,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/TruthTracking/ActsExamples/TruthTracking/ParticleSmearing.cpp",
+      "group": "compile_time",
+      "value": 17.34731,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Plugins/DD4hep/src/ConvertDD4hepDetector.cpp",
+      "group": "compile_time",
+      "value": 17.236912,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Geant4/HepMC/EventRecordingExample.cpp",
+      "group": "compile_time",
+      "value": 17.132409,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/CuboidVolumeBuilder.cpp",
+      "group": "compile_time",
+      "value": 17.060696,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/TrackFinding/src/SpacePointMaker.cpp",
+      "group": "compile_time",
+      "value": 16.897581,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Fatras/Kernel/InteractorTests.cpp",
+      "group": "compile_time",
+      "value": 16.660849,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/PlaneLayerTests.cpp",
+      "group": "compile_time",
+      "value": 16.642006,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/ConeLayerTests.cpp",
+      "group": "compile_time",
+      "value": 16.575809,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/NavigationLayerTests.cpp",
+      "group": "compile_time",
+      "value": 16.462951,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Framework/src/Validation/ResPlotTool.cpp",
+      "group": "compile_time",
+      "value": 16.4214,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/TrackFinding/src/TrackParamsEstimationAlgorithm.cpp",
+      "group": "compile_time",
+      "value": 16.374701,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Fatras/Digitization/UncorrelatedHitSmearerTests.cpp",
+      "group": "compile_time",
+      "value": 16.350424,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/GenericCuboidVolumeBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 16.185466,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/CutoutCylinderVolumeBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 15.973384,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/CylinderSurface.cpp",
+      "group": "compile_time",
+      "value": 15.899963,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Performance/ActsExamples/Io/Performance/CKFPerformanceWriter.cpp",
+      "group": "compile_time",
+      "value": 15.87662,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Root/src/RootMaterialDecorator.cpp",
+      "group": "compile_time",
+      "value": 15.873382,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/LayerTests.cpp",
+      "group": "compile_time",
+      "value": 15.817628,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/MaterialMapUtilsTests.cpp",
+      "group": "compile_time",
+      "value": 15.81323,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/TrapezoidVolumeBounds.cpp",
+      "group": "compile_time",
+      "value": 15.72505,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Common/src/CommonGeometry.cpp",
+      "group": "compile_time",
+      "value": 15.689267,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Plugins/Digitization/src/CartesianSegmentation.cpp",
+      "group": "compile_time",
+      "value": 15.645319,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Root/src/RootDigitizationWriter.cpp",
+      "group": "compile_time",
+      "value": 15.556954,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Reconstruction/Common/RecInput.cpp",
+      "group": "compile_time",
+      "value": 15.534747,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/ConeSurface.cpp",
+      "group": "compile_time",
+      "value": 15.482043,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/TrackFinding/src/TrackFindingOptions.cpp",
+      "group": "compile_time",
+      "value": 15.460209,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Plugins/TGeo/TGeoTrd2ConversionTests.cpp",
+      "group": "compile_time",
+      "value": 15.39214,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/BoundaryCheckTests.cpp",
+      "group": "compile_time",
+      "value": 15.348622,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/MaterialMapping/src/MaterialMapping.cpp",
+      "group": "compile_time",
+      "value": 15.318762,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/NuclearInteractions/src/detail/NuclearInteractionParametrisation.cpp",
+      "group": "compile_time",
+      "value": 15.302407,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Propagator/ActionListTests.cpp",
+      "group": "compile_time",
+      "value": 15.218852,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/TrackingGeometry.cpp",
+      "group": "compile_time",
+      "value": 15.056061,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Plugins/TGeo/TGeoTubeConversionTests.cpp",
+      "group": "compile_time",
+      "value": 15.029418,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/StrawSurface.cpp",
+      "group": "compile_time",
+      "value": 14.958919,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Digitization/src/DigitizationOptions.cpp",
+      "group": "compile_time",
+      "value": 14.916939,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/CylinderLayer.cpp",
+      "group": "compile_time",
+      "value": 14.829323,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Root/src/RootTrackParameterWriter.cpp",
+      "group": "compile_time",
+      "value": 14.786985,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Common/src/GeometryExampleBase.cpp",
+      "group": "compile_time",
+      "value": 14.723455,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Plugins/Json/UtilitiesJsonConverterTests.cpp",
+      "group": "compile_time",
+      "value": 14.689114,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Plugins/Json/MaterialMapJsonConverterTests.cpp",
+      "group": "compile_time",
+      "value": 14.664295,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Csv/src/CsvPlanarClusterReader.cpp",
+      "group": "compile_time",
+      "value": 14.630685,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Plugins/TGeo/TGeoTrd1ConversionTests.cpp",
+      "group": "compile_time",
+      "value": 14.397682,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/VolumeTests.cpp",
+      "group": "compile_time",
+      "value": 14.370085,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/TrackFinding/src/SeedingAlgorithm.cpp",
+      "group": "compile_time",
+      "value": 14.301934,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Performance/ActsExamples/Io/Performance/TrackFitterPerformanceWriter.cpp",
+      "group": "compile_time",
+      "value": 14.248346,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/DiscLayer.cpp",
+      "group": "compile_time",
+      "value": 14.247996,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Plugins/TGeo/src/TGeoLayerBuilder.cpp",
+      "group": "compile_time",
+      "value": 14.225178,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Geant4/DD4hep/DD4hepGeantinoRecording.cpp",
+      "group": "compile_time",
+      "value": 14.199521,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/CutoutCylinderVolumeBounds.cpp",
+      "group": "compile_time",
+      "value": 14.149329,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/AlignmentContextTests.cpp",
+      "group": "compile_time",
+      "value": 14.141624,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/DiscSurface.cpp",
+      "group": "compile_time",
+      "value": 14.075468,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Plugins/TGeo/TGeoArb8ConversionTests.cpp",
+      "group": "compile_time",
+      "value": 14.059234,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/PolyhedronTests.cpp",
+      "group": "compile_time",
+      "value": 14.049516,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/CuboidVolumeBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 14.047206,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/TGeoDetector/src/TGeoDetectorOptions.cpp",
+      "group": "compile_time",
+      "value": 13.961732,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Plugins/DD4hep/src/DD4hepVolumeBuilder.cpp",
+      "group": "compile_time",
+      "value": 13.926388,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Propagator/detail/CovarianceEngine.cpp",
+      "group": "compile_time",
+      "value": 13.719014,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/ConvexPolygonBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 13.658653,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/BinAdjustmentTests.cpp",
+      "group": "compile_time",
+      "value": 13.630617,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/ConeLayer.cpp",
+      "group": "compile_time",
+      "value": 13.593151,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/BinUtilityTests.cpp",
+      "group": "compile_time",
+      "value": 13.43853,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/TGeoDetector/src/TGeoDetector.cpp",
+      "group": "compile_time",
+      "value": 13.343484,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/TrackFitting/src/SurfaceSortingAlgorithm.cpp",
+      "group": "compile_time",
+      "value": 13.23507,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/PerigeeSurface.cpp",
+      "group": "compile_time",
+      "value": 13.163477,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Plugins/TGeo/src/TGeoDetectorElement.cpp",
+      "group": "compile_time",
+      "value": 13.163187,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Csv/src/CsvSimHitReader.cpp",
+      "group": "compile_time",
+      "value": 13.085794,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/IntersectionTests.cpp",
+      "group": "compile_time",
+      "value": 13.027103,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Root/src/RootTrajectoryParametersWriter.cpp",
+      "group": "compile_time",
+      "value": 12.978629,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Performance/ActsExamples/Io/Performance/SeedingPerformanceWriter.cpp",
+      "group": "compile_time",
+      "value": 12.905357,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Fatras/Digitization/PlanarSurfaceDriftTests.cpp",
+      "group": "compile_time",
+      "value": 12.90494,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/EventData/MeasurementHelpersTests.cpp",
+      "group": "compile_time",
+      "value": 12.770733,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/PlaneLayer.cpp",
+      "group": "compile_time",
+      "value": 12.698195,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/TruthTracking/ActsExamples/TruthTracking/TrackSelector.cpp",
+      "group": "compile_time",
+      "value": 12.656432,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Json/src/JsonSurfacesWriter.cpp",
+      "group": "compile_time",
+      "value": 12.630597,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Visualization/VolumeView3DTests.cpp",
+      "group": "compile_time",
+      "value": 12.62294,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Plugins/Json/GeometryHierarchyMapJsonConverterTests.cpp",
+      "group": "compile_time",
+      "value": 12.614685,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/ConeVolumeBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 12.580178,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/BinAdjustmentVolumeTests.cpp",
+      "group": "compile_time",
+      "value": 12.456992,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/LineSurface.cpp",
+      "group": "compile_time",
+      "value": 12.38364,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Framework/src/Validation/TrackSummaryPlotTool.cpp",
+      "group": "compile_time",
+      "value": 12.377314,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Material/ProtoVolumeMaterialTests.cpp",
+      "group": "compile_time",
+      "value": 12.36591,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/AxesTests.cpp",
+      "group": "compile_time",
+      "value": 12.316942,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Material/InterpolatedMaterialMapTests.cpp",
+      "group": "compile_time",
+      "value": 12.2856,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Common/src/CommonOptions.cpp",
+      "group": "compile_time",
+      "value": 12.275847,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Material/MaterialGridHelperTests.cpp",
+      "group": "compile_time",
+      "value": 12.228369,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Geant4HepMC/src/EventRecording.cpp",
+      "group": "compile_time",
+      "value": 12.158151,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Plugins/TGeo/TGeoLayerBuilderTests.cpp",
+      "group": "compile_time",
+      "value": 12.033982,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Plugins/Json/AlgebraJsonConverterTests.cpp",
+      "group": "compile_time",
+      "value": 12.030574,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/Surface.cpp",
+      "group": "compile_time",
+      "value": 11.946352,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/ContextualDetector/src/AlignmentDecorator.cpp",
+      "group": "compile_time",
+      "value": 11.920664,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/TrackingVolumeArrayCreator.cpp",
+      "group": "compile_time",
+      "value": 11.908276,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/GenericDetector/src/BuildGenericDetector.cpp",
+      "group": "compile_time",
+      "value": 11.866067,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/EventData/NeutralTrackParameters.cpp",
+      "group": "compile_time",
+      "value": 11.810351,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/CuboidVolumeBounds.cpp",
+      "group": "compile_time",
+      "value": 11.773854,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/Benchmarks/BinUtilityBenchmark.cpp",
+      "group": "compile_time",
+      "value": 11.757131,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Propagator/VolumeMaterialInteractionTests.cpp",
+      "group": "compile_time",
+      "value": 11.73044,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Geant4/GdmlGeantinoRecording.cpp",
+      "group": "compile_time",
+      "value": 11.695167,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/SimpleGeometryTests.cpp",
+      "group": "compile_time",
+      "value": 11.600258,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Propagator/StraightLineStepper.cpp",
+      "group": "compile_time",
+      "value": 11.5776,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Root/src/RootPlanarClusterWriter.cpp",
+      "group": "compile_time",
+      "value": 11.40884,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Fatras/Common/FatrasDigitization.cpp",
+      "group": "compile_time",
+      "value": 11.376036,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Json/src/JsonMaterialWriter.cpp",
+      "group": "compile_time",
+      "value": 11.300158,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Material/AccumulatedSurfaceMaterialTests.cpp",
+      "group": "compile_time",
+      "value": 11.292984,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Fatras/Digitization/ChannelMergerTests.cpp",
+      "group": "compile_time",
+      "value": 11.228968,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Material/BinnedSurfaceMaterialTests.cpp",
+      "group": "compile_time",
+      "value": 11.218768,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Plugins/Json/src/UtilitiesJsonConverter.cpp",
+      "group": "compile_time",
+      "value": 11.13351,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/SurfaceBinningMatcherTests.cpp",
+      "group": "compile_time",
+      "value": 11.120297,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Obj/src/ObjTrackingGeometryWriter.cpp",
+      "group": "compile_time",
+      "value": 11.084708,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/FCChh/FCChhTrackerTkLayout_Endcap.cpp",
+      "group": "compile_time",
+      "value": 11.065073,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Printers/ActsExamples/Printers/TrackParametersPrinter.cpp",
+      "group": "compile_time",
+      "value": 10.940903,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Plugins/Digitization/PlanarModuleStepperTests.cpp",
+      "group": "compile_time",
+      "value": 10.930828,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Geant4/src/Geant4Options.cpp",
+      "group": "compile_time",
+      "value": 10.879904,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Geant4/src/SteppingAction.cpp",
+      "group": "compile_time",
+      "value": 10.874818,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Root/src/RootMaterialTrackReader.cpp",
+      "group": "compile_time",
+      "value": 10.803861,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Propagator/AbortListTests.cpp",
+      "group": "compile_time",
+      "value": 10.77397,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Geant4/src/GeantinoRecording.cpp",
+      "group": "compile_time",
+      "value": 10.757743,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/Benchmarks/BoundaryCheckBenchmark.cpp",
+      "group": "compile_time",
+      "value": 10.748286,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Root/src/RootMaterialWriter.cpp",
+      "group": "compile_time",
+      "value": 10.640583,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/PassiveLayerBuilder.cpp",
+      "group": "compile_time",
+      "value": 10.639532,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/AnnulusBounds.cpp",
+      "group": "compile_time",
+      "value": 10.619803,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/BinningDataTests.cpp",
+      "group": "compile_time",
+      "value": 10.613664,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/PlaneSurface.cpp",
+      "group": "compile_time",
+      "value": 10.541128,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/GeneratorsPythia8/ActsExamples/Generators/Pythia8ProcessGenerator.cpp",
+      "group": "compile_time",
+      "value": 10.534085,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Generators/ActsExamples/Generators/EventGenerator.cpp",
+      "group": "compile_time",
+      "value": 10.504764,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Material/ProtoSurfaceMaterialTests.cpp",
+      "group": "compile_time",
+      "value": 10.453222,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/TelescopeDetector/src/TelescopeDetectorElement.cpp",
+      "group": "compile_time",
+      "value": 10.444272,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Visualization/EventDataView3D.cpp",
+      "group": "compile_time",
+      "value": 10.430467,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/AbstractVolume.cpp",
+      "group": "compile_time",
+      "value": 10.409978,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/EmptyDetector/src/EmptyDetector.cpp",
+      "group": "compile_time",
+      "value": 10.39981,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Digitization/src/HitSmearing.cpp",
+      "group": "compile_time",
+      "value": 10.397065,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/HelpersTests.cpp",
+      "group": "compile_time",
+      "value": 10.391309,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/GlueVolumesDescriptor.cpp",
+      "group": "compile_time",
+      "value": 10.386644,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/TrackingGeometryBuilder.cpp",
+      "group": "compile_time",
+      "value": 10.132455,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/FCChh/FCChhTrackerTkLayout_Barrel.cpp",
+      "group": "compile_time",
+      "value": 10.057775,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Geant4/src/EventAction.cpp",
+      "group": "compile_time",
+      "value": 10.048752,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/BFieldMapUtilsTests.cpp",
+      "group": "compile_time",
+      "value": 10.039854,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/ProtoLayerHelper.cpp",
+      "group": "compile_time",
+      "value": 10.001073,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/AnnulusBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 10.000603,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/EventData/PrintParameters.cpp",
+      "group": "compile_time",
+      "value": 9.963084,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/GenericDetector/src/GenericDetectorElement.cpp",
+      "group": "compile_time",
+      "value": 9.89472,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Csv/src/CsvPlanarClusterWriter.cpp",
+      "group": "compile_time",
+      "value": 9.861707,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Framework/src/Validation/FakeRatePlotTool.cpp",
+      "group": "compile_time",
+      "value": 9.750002,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/MagneticField/BFieldAccessExample.cpp",
+      "group": "compile_time",
+      "value": 9.65365,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/EventData/TransformationFreeToBound.cpp",
+      "group": "compile_time",
+      "value": 9.628994,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Framework/src/Validation/DuplicationPlotTool.cpp",
+      "group": "compile_time",
+      "value": 9.580321,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Plugins/TGeo/TGeoParserTests.cpp",
+      "group": "compile_time",
+      "value": 9.480183,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/AlignmentHelperTests.cpp",
+      "group": "compile_time",
+      "value": 9.422079,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Framework/src/Validation/TrackClassification.cpp",
+      "group": "compile_time",
+      "value": 9.420669,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/MagneticField/BFieldExample.cpp",
+      "group": "compile_time",
+      "value": 9.403861,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Plugins/Json/SurfaceBoundsJsonConverterTests.cpp",
+      "group": "compile_time",
+      "value": 9.348861,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Fatras/EventData/HitTests.cpp",
+      "group": "compile_time",
+      "value": 9.344755,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/TruthTracking/ActsExamples/TruthTracking/TruthSeedSelector.cpp",
+      "group": "compile_time",
+      "value": 9.30486,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/EventData/TrackParameters.cpp",
+      "group": "compile_time",
+      "value": 9.281317,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/DD4hepDetector.cpp",
+      "group": "compile_time",
+      "value": 9.258581,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Plugins/Digitization/CartesianSegmentationTests.cpp",
+      "group": "compile_time",
+      "value": 9.219192,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/DetUtils.cpp",
+      "group": "compile_time",
+      "value": 9.010947,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/FiniteStateMachineTests.cpp",
+      "group": "compile_time",
+      "value": 8.970134,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Fatras/Physics/ScatteringTests.cpp",
+      "group": "compile_time",
+      "value": 8.936378,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Visualization/Visualization3DTests.cpp",
+      "group": "compile_time",
+      "value": 8.666464,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/ContextualDetector/src/PayloadDecorator.cpp",
+      "group": "compile_time",
+      "value": 8.612872,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Root/src/RootPropagationStepsWriter.cpp",
+      "group": "compile_time",
+      "value": 8.53841,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Framework/src/Utilities/Paths.cpp",
+      "group": "compile_time",
+      "value": 8.420447,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/GenericApproachDescriptor.cpp",
+      "group": "compile_time",
+      "value": 8.412655,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Material/MaterialGridHelper.cpp",
+      "group": "compile_time",
+      "value": 8.406859,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/HepMC/src/HepMCProcessExtractor.cpp",
+      "group": "compile_time",
+      "value": 8.39762,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/DD4hepDetectorHelper.cpp",
+      "group": "compile_time",
+      "value": 8.309257,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/TrapezoidBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 8.306025,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Fatras/src/FatrasOptions.cpp",
+      "group": "compile_time",
+      "value": 8.301165,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Plugins/Json/src/AlgebraJsonConverter.cpp",
+      "group": "compile_time",
+      "value": 8.27693,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/ExtentTests.cpp",
+      "group": "compile_time",
+      "value": 8.237079,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Fatras/src/Digitization/PlanarSurfaceDrift.cpp",
+      "group": "compile_time",
+      "value": 8.219955,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Root/src/RootMaterialTrackWriter.cpp",
+      "group": "compile_time",
+      "value": 8.217511,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/UnitVectorsTests.cpp",
+      "group": "compile_time",
+      "value": 8.18013,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Geant4/src/RunAction.cpp",
+      "group": "compile_time",
+      "value": 8.146472,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/Volume.cpp",
+      "group": "compile_time",
+      "value": 8.027498,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/OpenDataDetector/ODDPixelEndcap_geo.cpp",
+      "group": "compile_time",
+      "value": 7.98606,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/TelescopeDetector/src/TelescopeDetector.cpp",
+      "group": "compile_time",
+      "value": 7.978862,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Fatras/EventData/ParticleTests.cpp",
+      "group": "compile_time",
+      "value": 7.958788,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/EllipseBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 7.882177,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/MagneticField/src/BFieldOptions.cpp",
+      "group": "compile_time",
+      "value": 7.828761,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/MagneticField/InterpolatedBFieldMapTests.cpp",
+      "group": "compile_time",
+      "value": 7.758503,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/DiamondBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 7.740434,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/OpenDataDetector/ODDStripEndcap_geo.cpp",
+      "group": "compile_time",
+      "value": 7.687798,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/DD4hepGeometryService.cpp",
+      "group": "compile_time",
+      "value": 7.670488,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/TruthTracking/ActsExamples/TruthTracking/ParticleSelector.cpp",
+      "group": "compile_time",
+      "value": 7.663466,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Generators/ActsExamples/Options/ParticleGunOptions.cpp",
+      "group": "compile_time",
+      "value": 7.642785,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Plugins/Digitization/src/PlanarModuleStepper.cpp",
+      "group": "compile_time",
+      "value": 7.63571,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/Benchmarks/AnnulusBoundsBenchmark.cpp",
+      "group": "compile_time",
+      "value": 7.551975,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/RadialBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 7.4845,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/GeneratorsPythia8/ActsExamples/Options/Pythia8Options.cpp",
+      "group": "compile_time",
+      "value": 7.472524,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Plugins/DD4hep/src/DD4hepDetectorElement.cpp",
+      "group": "compile_time",
+      "value": 7.449202,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/ConeBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 7.439982,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/TruthTracking/ActsExamples/TruthTracking/TruthTrackFinder.cpp",
+      "group": "compile_time",
+      "value": 7.396359,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/EventData/ChargeTests.cpp",
+      "group": "compile_time",
+      "value": 7.372492,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/VerticesHelperTests.cpp",
+      "group": "compile_time",
+      "value": 7.360538,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/NavigationLayer.cpp",
+      "group": "compile_time",
+      "value": 7.307678,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Fatras/src/Digitization/Channelizer.cpp",
+      "group": "compile_time",
+      "value": 7.268219,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/DiscTrapezoidBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 7.264194,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/ResultTests.cpp",
+      "group": "compile_time",
+      "value": 7.262591,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Fatras/src/Digitization/PlanarSurfaceMask.cpp",
+      "group": "compile_time",
+      "value": 7.142312,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/CylinderBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 7.113082,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Fatras/Kernel/PointLikePhysicsListTests.cpp",
+      "group": "compile_time",
+      "value": 7.108513,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/CylinderVolumeBuilderTests.cpp",
+      "group": "compile_time",
+      "value": 7.066487,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Material/InteractionsTests.cpp",
+      "group": "compile_time",
+      "value": 7.03821,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Fatras/Selectors/SelectorHelpersTests.cpp",
+      "group": "compile_time",
+      "value": 7.022459,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Seeding/SeedfinderTest.cpp",
+      "group": "compile_time",
+      "value": 6.954972,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/Layer.cpp",
+      "group": "compile_time",
+      "value": 6.900498,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/VolumeBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 6.876087,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/Benchmarks/SolenoidFieldBenchmark.cpp",
+      "group": "compile_time",
+      "value": 6.838275,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/ProtoLayer.cpp",
+      "group": "compile_time",
+      "value": 6.814607,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Plugins/Digitization/ClusterizationTests.cpp",
+      "group": "compile_time",
+      "value": 6.802117,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Material/ProtoVolumeMaterial.cpp",
+      "group": "compile_time",
+      "value": 6.785608,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/IntegrationTests/InterpolatedSolenoidBFieldTest.cpp",
+      "group": "compile_time",
+      "value": 6.773436,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Material/AccumulatedSurfaceMaterial.cpp",
+      "group": "compile_time",
+      "value": 6.747057,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Vertexing/Pythia8/AdaptiveMultiVertexFinderExample.cpp",
+      "group": "compile_time",
+      "value": 6.737921,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Show/ShowFatrasGeneric.cpp",
+      "group": "compile_time",
+      "value": 6.733852,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Material/MaterialMapUtils.cpp",
+      "group": "compile_time",
+      "value": 6.708813,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Vertexing/Pythia8/TutorialVertexFinderExample.cpp",
+      "group": "compile_time",
+      "value": 6.688879,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/MagneticField/SolenoidBField.cpp",
+      "group": "compile_time",
+      "value": 6.685211,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/MagneticField/ConstantBFieldTests.cpp",
+      "group": "compile_time",
+      "value": 6.676235,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Vertexing/Pythia8/IterativeVertexFinderExample.cpp",
+      "group": "compile_time",
+      "value": 6.67095,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Show/ShowParticles.cpp",
+      "group": "compile_time",
+      "value": 6.647731,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/TestTracker/Endcap_geo.cpp",
+      "group": "compile_time",
+      "value": 6.645326,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Vertexing/VertexFinderReaderExample.cpp",
+      "group": "compile_time",
+      "value": 6.644083,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/LineBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 6.624129,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Vertexing/Pythia8/VertexFitterExample.cpp",
+      "group": "compile_time",
+      "value": 6.618524,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Fatras/Selectors/ChargeSelectorsTests.cpp",
+      "group": "compile_time",
+      "value": 6.615196,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/DiscTrapezoidBounds.cpp",
+      "group": "compile_time",
+      "value": 6.520838,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Propagator/detail/PointwiseMaterialInteraction.cpp",
+      "group": "compile_time",
+      "value": 6.515739,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/RectangleBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 6.465448,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Material/MaterialTests.cpp",
+      "group": "compile_time",
+      "value": 6.433599,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/RectangleBounds.cpp",
+      "group": "compile_time",
+      "value": 6.358182,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Framework/src/Framework/Sequencer.cpp",
+      "group": "compile_time",
+      "value": 6.265634,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/EventData/TransformationBoundToFree.cpp",
+      "group": "compile_time",
+      "value": 6.260254,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/TrapezoidBounds.cpp",
+      "group": "compile_time",
+      "value": 6.259378,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Material/AccumulatedMaterialSlabTests.cpp",
+      "group": "compile_time",
+      "value": 6.247133,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/InfiniteBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 6.143929,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/MagneticField/SolenoidBFieldTests.cpp",
+      "group": "compile_time",
+      "value": 6.113369,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/HepMC3/HepMC3Example.cpp",
+      "group": "compile_time",
+      "value": 6.099952,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Benchmarks/BenchmarkTools.cpp",
+      "group": "compile_time",
+      "value": 6.094868,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/SurfaceArray.cpp",
+      "group": "compile_time",
+      "value": 6.084842,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/RadialBounds.cpp",
+      "group": "compile_time",
+      "value": 6.038342,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/OpenDataDetector/ODDStripBarrel_geo.cpp",
+      "group": "compile_time",
+      "value": 6.018643,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/EllipseBounds.cpp",
+      "group": "compile_time",
+      "value": 5.999268,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/RayTest.cpp",
+      "group": "compile_time",
+      "value": 5.933692,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Material/AverageMaterialsTests.cpp",
+      "group": "compile_time",
+      "value": 5.929384,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Definitions/UnitsTests.cpp",
+      "group": "compile_time",
+      "value": 5.895629,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/LoggerTests.cpp",
+      "group": "compile_time",
+      "value": 5.895282,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Csv/src/CsvParticleReader.cpp",
+      "group": "compile_time",
+      "value": 5.875879,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Fatras/Physics/EnergyLossTests.cpp",
+      "group": "compile_time",
+      "value": 5.862928,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/InterpolationTests.cpp",
+      "group": "compile_time",
+      "value": 5.856078,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/CylinderBounds.cpp",
+      "group": "compile_time",
+      "value": 5.816824,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/PeriodicTests.cpp",
+      "group": "compile_time",
+      "value": 5.810045,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/HepMC3/HepMC3HistogramExample.cpp",
+      "group": "compile_time",
+      "value": 5.808367,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Fatras/Selectors/PdgSelectorsTests.cpp",
+      "group": "compile_time",
+      "value": 5.715365,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/Polyhedron.cpp",
+      "group": "compile_time",
+      "value": 5.701593,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Fatras/Selectors/KinematicCastsTests.cpp",
+      "group": "compile_time",
+      "value": 5.701336,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Csv/src/CsvOptionsWriter.cpp",
+      "group": "compile_time",
+      "value": 5.683655,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/TruthTracking/ActsExamples/TruthTracking/TruthVertexFinder.cpp",
+      "group": "compile_time",
+      "value": 5.668137,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Generators/ParticleGun.cpp",
+      "group": "compile_time",
+      "value": 5.667375,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Material/BinnedSurfaceMaterial.cpp",
+      "group": "compile_time",
+      "value": 5.664868,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Material/ProtoSurfaceMaterial.cpp",
+      "group": "compile_time",
+      "value": 5.662581,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Csv/src/CsvParticleWriter.cpp",
+      "group": "compile_time",
+      "value": 5.636918,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/NuclearInteractions/src/RootNuclearInteractionParametersWriter.cpp",
+      "group": "compile_time",
+      "value": 5.612661,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/TelescopeDetector/src/TelescopeDetectorOptions.cpp",
+      "group": "compile_time",
+      "value": 5.597585,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Material/AccumulatedVolumeMaterialTests.cpp",
+      "group": "compile_time",
+      "value": 5.580619,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Plugins/Json/src/SurfaceBoundsJsonConverter.cpp",
+      "group": "compile_time",
+      "value": 5.573164,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Material/HomogeneousSurfaceMaterialTests.cpp",
+      "group": "compile_time",
+      "value": 5.556286,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Geant4HepMC/src/SteppingAction.cpp",
+      "group": "compile_time",
+      "value": 5.547661,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/DiamondBounds.cpp",
+      "group": "compile_time",
+      "value": 5.54126,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/OpenDataDetector/ODDPixelBarrel_geo.cpp",
+      "group": "compile_time",
+      "value": 5.506218,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/HepMC3/src/HepMC3Vertex.cpp",
+      "group": "compile_time",
+      "value": 5.481691,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/MagneticField/BFieldMapUtils.cpp",
+      "group": "compile_time",
+      "value": 5.480232,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Material/HomogeneousVolumeMaterialTests.cpp",
+      "group": "compile_time",
+      "value": 5.463745,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/VolumeBounds.cpp",
+      "group": "compile_time",
+      "value": 5.458627,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/MultiIndexTests.cpp",
+      "group": "compile_time",
+      "value": 5.436955,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/AnnealingUtilityTests.cpp",
+      "group": "compile_time",
+      "value": 5.403644,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/GeometryIdentifierTests.cpp",
+      "group": "compile_time",
+      "value": 5.380908,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Root/src/RootSimHitWriter.cpp",
+      "group": "compile_time",
+      "value": 5.368719,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Framework/src/Validation/EffPlotTool.cpp",
+      "group": "compile_time",
+      "value": 5.304888,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/SurfaceBoundsTests.cpp",
+      "group": "compile_time",
+      "value": 5.296017,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Fatras/Common/Fatras.cpp",
+      "group": "compile_time",
+      "value": 5.269331,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Surfaces/IntersectionHelper2DTests.cpp",
+      "group": "compile_time",
+      "value": 5.247051,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Csv/src/CsvSimHitWriter.cpp",
+      "group": "compile_time",
+      "value": 5.217916,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Material/MaterialSlabTests.cpp",
+      "group": "compile_time",
+      "value": 5.154065,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/Demonstrator/DemonstratorBarrel_geo.cpp",
+      "group": "compile_time",
+      "value": 5.140421,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Fatras/Kernel/ProcessTests.cpp",
+      "group": "compile_time",
+      "value": 5.099503,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Root/src/RootParticleWriter.cpp",
+      "group": "compile_time",
+      "value": 5.097226,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Printers/ActsExamples/Printers/HitsPrinter.cpp",
+      "group": "compile_time",
+      "value": 5.075553,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Fatras/Common/FatrasInput.cpp",
+      "group": "compile_time",
+      "value": 5.073241,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Printers/ActsExamples/Printers/ParticlesPrinter.cpp",
+      "group": "compile_time",
+      "value": 5.071085,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/HepMC3/src/HepMC3Particle.cpp",
+      "group": "compile_time",
+      "value": 5.026216,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Geometry/GeometryHierarchyMapTests.cpp",
+      "group": "compile_time",
+      "value": 5.006825,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/LineBounds.cpp",
+      "group": "compile_time",
+      "value": 4.9706,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Utilities/BinUtility.cpp",
+      "group": "compile_time",
+      "value": 4.94462,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Geant4HepMC/src/EventAction.cpp",
+      "group": "compile_time",
+      "value": 4.885365,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/MagneticField/MagneticFieldInterfaceConsistencyTests.cpp",
+      "group": "compile_time",
+      "value": 4.877634,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Plugins/TGeo/src/TGeoParser.cpp",
+      "group": "compile_time",
+      "value": 4.877062,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/MPLTests.cpp",
+      "group": "compile_time",
+      "value": 4.847993,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Geant4HepMC/src/PrimaryGeneratorAction.cpp",
+      "group": "compile_time",
+      "value": 4.801436,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/Calorimeter/Calorimeter_barrel.cpp",
+      "group": "compile_time",
+      "value": 4.800597,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/HepMC3/src/HepMC3Event.cpp",
+      "group": "compile_time",
+      "value": 4.664819,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/HepMC3/src/HepMC3Options.cpp",
+      "group": "compile_time",
+      "value": 4.657273,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/ConvexPolygonBounds.cpp",
+      "group": "compile_time",
+      "value": 4.552789,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Fatras/Kernel/PhysicsListTests.cpp",
+      "group": "compile_time",
+      "value": 4.441228,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/ExtendableTests.cpp",
+      "group": "compile_time",
+      "value": 4.318409,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Plugins/DD4hep/src/ActsExtension.cpp",
+      "group": "compile_time",
+      "value": 4.308487,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Generators/Pythia8/Pythia8.cpp",
+      "group": "compile_time",
+      "value": 4.24909,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/OpenDataDetector/ODDCylinder_geo.cpp",
+      "group": "compile_time",
+      "value": 4.202698,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Fatras/Utilities/ParticleDataTests.cpp",
+      "group": "compile_time",
+      "value": 4.174554,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/RealQuadraticEquationTests.cpp",
+      "group": "compile_time",
+      "value": 4.030234,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/IntersectionHelper2D.cpp",
+      "group": "compile_time",
+      "value": 3.811573,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/HepMC3/src/HepMC3Writer.cpp",
+      "group": "compile_time",
+      "value": 3.744113,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Material/MaterialCompositionTests.cpp",
+      "group": "compile_time",
+      "value": 3.660178,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Utilities/TypeTraitsTest.cpp",
+      "group": "compile_time",
+      "value": 3.657332,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Vertexing/FsmwMode1dFinder.cpp",
+      "group": "compile_time",
+      "value": 3.538592,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/ConeBounds.cpp",
+      "group": "compile_time",
+      "value": 3.537857,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Propagator/AuctioneerTests.cpp",
+      "group": "compile_time",
+      "value": 3.515502,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Utilities/Logger.cpp",
+      "group": "compile_time",
+      "value": 3.493724,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/VersionTests.cpp",
+      "group": "compile_time",
+      "value": 3.488342,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/TrackFitting/KalmanFitterError.cpp",
+      "group": "compile_time",
+      "value": 3.481468,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Vertexing/VertexingError.cpp",
+      "group": "compile_time",
+      "value": 3.478703,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Utilities/AnnealingUtility.cpp",
+      "group": "compile_time",
+      "value": 3.475724,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/TrackFinding/CombinatorialKalmanFilterError.cpp",
+      "group": "compile_time",
+      "value": 3.424097,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/TestTracker/BeamPipe_geo.cpp",
+      "group": "compile_time",
+      "value": 3.377104,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/IntegrationTests/Legacy/ATLSeedingIntegrationTest.cpp",
+      "group": "compile_time",
+      "value": 3.372783,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Reconstruction/DD4hep/DD4hepRecCKFTracks.cpp",
+      "group": "compile_time",
+      "value": 3.327966,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Framework/src/Utilities/Helpers.cpp",
+      "group": "compile_time",
+      "value": 3.325228,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Framework/src/Framework/RandomNumbers.cpp",
+      "group": "compile_time",
+      "value": 3.307183,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/TestTracker/ZPlanarTracker_geo.cpp",
+      "group": "compile_time",
+      "value": 3.304285,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Plugins/TGeo/TGeoPrimitivesHelperTests.cpp",
+      "group": "compile_time",
+      "value": 3.288641,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/IntegrationTests/PrintDataDirectory.cpp",
+      "group": "compile_time",
+      "value": 3.281055,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/detail/AlignmentHelper.cpp",
+      "group": "compile_time",
+      "value": 3.262411,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Reconstruction/DD4hep/DD4hepRecTruthTracks.cpp",
+      "group": "compile_time",
+      "value": 3.254774,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Reconstruction/DD4hep/DD4hepSeedingExample.cpp",
+      "group": "compile_time",
+      "value": 3.251242,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/TestTracker/SimpleLayeredCylinder_geo.cpp",
+      "group": "compile_time",
+      "value": 3.235724,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/CommonHelpers/Acts/Tests/CommonHelpers/DataDirectory.cpp",
+      "group": "compile_time",
+      "value": 3.228394,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/CommonHelpers/Acts/Tests/CommonHelpers/TestSourceLink.cpp",
+      "group": "compile_time",
+      "value": 3.228296,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/TKLayout/TKLayoutBarrel_geo.cpp",
+      "group": "compile_time",
+      "value": 3.214395,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/Demonstrator/DemonstratorBeamPipe_geo.cpp",
+      "group": "compile_time",
+      "value": 3.197984,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Surfaces/SurfaceError.cpp",
+      "group": "compile_time",
+      "value": 3.182238,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/MaterialMapping/DD4hep/DD4hepMaterialMapping.cpp",
+      "group": "compile_time",
+      "value": 3.151238,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Geant4/src/GdmlDetectorConstruction.cpp",
+      "group": "compile_time",
+      "value": 3.143193,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/MaterialMapping/GenericMaterialMapping.cpp",
+      "group": "compile_time",
+      "value": 3.115029,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/MaterialMapping/GenericMaterialValidation.cpp",
+      "group": "compile_time",
+      "value": 3.111712,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/TKLayout/TKLayoutEndcap_geo.cpp",
+      "group": "compile_time",
+      "value": 3.110368,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Propagation/EmptyDetectorPropagationExample.cpp",
+      "group": "compile_time",
+      "value": 3.101536,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/HelloWorld/HelloService.cpp",
+      "group": "compile_time",
+      "value": 3.100984,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Core/Propagator/ConstrainedStepTests.cpp",
+      "group": "compile_time",
+      "value": 3.097773,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Reconstruction/GenericRecTruthTracks.cpp",
+      "group": "compile_time",
+      "value": 3.065302,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Propagation/GenericPropagationExample.cpp",
+      "group": "compile_time",
+      "value": 3.048848,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Reconstruction/GenericSeedingExample.cpp",
+      "group": "compile_time",
+      "value": 3.04029,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/MaterialMapping/TGeo/TGeoMaterialMapping.cpp",
+      "group": "compile_time",
+      "value": 3.037268,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/MaterialMapping/TGeo/TGeoMaterialValidation.cpp",
+      "group": "compile_time",
+      "value": 3.035652,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/HelloWorld/HelloRandomAlgorithm.cpp",
+      "group": "compile_time",
+      "value": 3.033311,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Propagation/AlignedPropagationExample.cpp",
+      "group": "compile_time",
+      "value": 3.027258,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/MaterialMapping/DD4hep/DD4hepMaterialValidation.cpp",
+      "group": "compile_time",
+      "value": 3.016575,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Misc/CustomDefaultLogger.cpp",
+      "group": "compile_time",
+      "value": 3.012806,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Propagation/PayloadPropagationExample.cpp",
+      "group": "compile_time",
+      "value": 3.00917,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/HelloWorld/HelloWhiteBoardAlgorithm.cpp",
+      "group": "compile_time",
+      "value": 2.995709,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Material/HomogeneousSurfaceMaterial.cpp",
+      "group": "compile_time",
+      "value": 2.987737,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Reconstruction/GenericRecCKFTracks.cpp",
+      "group": "compile_time",
+      "value": 2.981937,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Propagation/TGeoPropagationExample.cpp",
+      "group": "compile_time",
+      "value": 2.97666,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Propagation/DD4hep/DD4hepPropagationExample.cpp",
+      "group": "compile_time",
+      "value": 2.95969,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Reconstruction/TelescopeRecTruthTracks.cpp",
+      "group": "compile_time",
+      "value": 2.950903,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Geometry/PayloadGeometryExample.cpp",
+      "group": "compile_time",
+      "value": 2.944433,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Geometry/GenericGeometryExample.cpp",
+      "group": "compile_time",
+      "value": 2.94049,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Misc/TabulateEnergyLoss.cpp",
+      "group": "compile_time",
+      "value": 2.930056,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/IBL/IBLSimpleBarrel_geo.cpp",
+      "group": "compile_time",
+      "value": 2.926767,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Reconstruction/TelescopeRecCKFTracks.cpp",
+      "group": "compile_time",
+      "value": 2.916098,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Geometry/DD4hep/DD4hepGeometryExample.cpp",
+      "group": "compile_time",
+      "value": 2.910875,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Geometry/TelescopeGeometryExample.cpp",
+      "group": "compile_time",
+      "value": 2.896505,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/TestTracker/Barrel_geo.cpp",
+      "group": "compile_time",
+      "value": 2.893791,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Material/AccumulatedVolumeMaterial.cpp",
+      "group": "compile_time",
+      "value": 2.86202,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Geometry/TGeoGeometryExample.cpp",
+      "group": "compile_time",
+      "value": 2.856178,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/Csv/src/CsvOptionsReader.cpp",
+      "group": "compile_time",
+      "value": 2.850052,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Material/Interactions.cpp",
+      "group": "compile_time",
+      "value": 2.832953,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Io/HepMC3/src/HepMC3Reader.cpp",
+      "group": "compile_time",
+      "value": 2.828844,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Material/AverageMaterials.cpp",
+      "group": "compile_time",
+      "value": 2.824565,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Geometry/EmptyGeometryExample.cpp",
+      "group": "compile_time",
+      "value": 2.817766,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Fatras/DD4hep/DD4hepFatrasExample.cpp",
+      "group": "compile_time",
+      "value": 2.808111,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/HelloWorld/HelloWorld.cpp",
+      "group": "compile_time",
+      "value": 2.80144,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/OpenDataDetector/ODDModuleHelper.cpp",
+      "group": "compile_time",
+      "value": 2.796824,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/GeometryIdentifier.cpp",
+      "group": "compile_time",
+      "value": 2.796152,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Plugins/TGeo/src/TGeoPrimitivesHelper.cpp",
+      "group": "compile_time",
+      "value": 2.792573,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/HelloWorld/HelloLoggerAlgorithm.cpp",
+      "group": "compile_time",
+      "value": 2.753664,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/TestTracker/AirTube_geo.cpp",
+      "group": "compile_time",
+      "value": 2.751416,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Geometry/AlignedGeometryExample.cpp",
+      "group": "compile_time",
+      "value": 2.744476,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Generators/ActsExamples/Generators/ParametricParticleGenerator.cpp",
+      "group": "compile_time",
+      "value": 2.737281,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Tests/UnitTests/Fatras/EventData/BarcodeTests.cpp",
+      "group": "compile_time",
+      "value": 2.705021,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Propagator/PropagatorError.cpp",
+      "group": "compile_time",
+      "value": 2.700653,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Fatras/src/Utilities/ParticleData.cpp",
+      "group": "compile_time",
+      "value": 2.646513,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Framework/src/Framework/BareAlgorithm.cpp",
+      "group": "compile_time",
+      "value": 2.61046,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/TrackFitting/src/TrackFittingOptions.cpp",
+      "group": "compile_time",
+      "value": 2.605276,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Fatras/src/Digitization/DigitizationError.cpp",
+      "group": "compile_time",
+      "value": 2.515095,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Plugins/Digitization/src/DigitizationModule.cpp",
+      "group": "compile_time",
+      "value": 2.488127,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Fatras/src/Physics/StandardPhysicsLists.cpp",
+      "group": "compile_time",
+      "value": 2.48771,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/MagneticField/src/BFieldScalor.cpp",
+      "group": "compile_time",
+      "value": 2.487132,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Fatras/src/Utilities/LandauDistribution.cpp",
+      "group": "compile_time",
+      "value": 2.481279,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Fatras/src/EventData/Particle.cpp",
+      "group": "compile_time",
+      "value": 2.476568,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Fatras/TGeoFatrasExample.cpp",
+      "group": "compile_time",
+      "value": 2.466445,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Material/Material.cpp",
+      "group": "compile_time",
+      "value": 2.386036,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Fatras/AlignedFatrasExample.cpp",
+      "group": "compile_time",
+      "value": 2.376623,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Fatras/GenericFatrasExample.cpp",
+      "group": "compile_time",
+      "value": 2.363508,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Geometry/Extent.cpp",
+      "group": "compile_time",
+      "value": 2.32527,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/MagneticField/src/BFieldUtils.cpp",
+      "group": "compile_time",
+      "value": 2.319858,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Fatras/PayloadFatrasExample.cpp",
+      "group": "compile_time",
+      "value": 2.210144,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Material/MaterialSlab.cpp",
+      "group": "compile_time",
+      "value": 2.130033,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Material/HomogeneousVolumeMaterial.cpp",
+      "group": "compile_time",
+      "value": 2.051642,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Detectors/DD4hepDetector/src/FCChh/FCChhTrackerTkLayout_Beampipe.cpp",
+      "group": "compile_time",
+      "value": 1.939145,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Geant4/src/PrimaryGeneratorAction.cpp",
+      "group": "compile_time",
+      "value": 1.930305,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Visualization/IVisualization3D.cpp",
+      "group": "compile_time",
+      "value": 1.677565,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Geant4DD4hep/src/DD4hepDetectorConstruction.cpp",
+      "group": "compile_time",
+      "value": 1.636242,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Framework/src/Utilities/Options.cpp",
+      "group": "compile_time",
+      "value": 1.580948,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Algorithms/Geant4HepMC/src/RunAction.cpp",
+      "group": "compile_time",
+      "value": 1.566735,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Framework/src/Framework/BareService.cpp",
+      "group": "compile_time",
+      "value": 1.558044,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Material/AccumulatedMaterialSlab.cpp",
+      "group": "compile_time",
+      "value": 1.169054,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Fatras/src/EventData/ProcessType.cpp",
+      "group": "compile_time",
+      "value": 1.118495,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Examples/Run/Fatras/TelescopeFatrasExample.cpp",
+      "group": "compile_time",
+      "value": 1.100678,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Fatras/src/Kernel/SimulatorError.cpp",
+      "group": "compile_time",
+      "value": 1.009189,
+      "unit": "seconds"
+    },
+    {
+      "name": "time_Core/src/Propagator/EigenStepperError.cpp",
+      "group": "compile_time",
+      "value": 0.090506,
+      "unit": "seconds"
+    }
+  ],
+  "context": {}
+}
