@@ -8,7 +8,6 @@ on:
 jobs:
   metric_tracking:
     runs-on: ubuntu-latest
-    needs: build_performance
     steps:
       - uses: actions/checkout@v2
       - name: Install dependencies
