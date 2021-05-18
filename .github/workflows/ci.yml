@@ -6,7 +6,7 @@ on:
       - master
 
 jobs:
-  metric_tracking:
+  make_report:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -21,7 +21,7 @@ jobs:
           wget https://raw.githubusercontent.com/paulgessinger/acts/perf-tracking/CI/headwind.yml
           popd 
           rm -rf report
-          hdw publish headwind.yml report
+          hdw publish CI/headwind.yml report
           git add report
           git commit -m"update report"
           git push
