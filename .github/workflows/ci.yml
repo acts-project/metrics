@@ -1,0 +1,29 @@
+name: Analysis
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  metric_tracking:
+    runs-on: ubuntu-latest
+    needs: build_performance
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install dependencies
+        run: pip3 install git+https://github.com/paulgessinger/headwind.git@eeeaa80
+      - uses: actions/download-artifact@v2
+        with:
+          name: cmakeperf
+      - name: Run collection
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          wget https://raw.githubusercontent.com/paulgessinger/acts/perf-tracking/CI/headwind.yml
+          rm -rf report
+          hdw publish headwind.yml report
+          git add report
+          git commit -m"update report"
+          git push
+
