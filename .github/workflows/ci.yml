@@ -12,10 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Install dependencies
         run: pip3 install git+https://github.com/paulgessinger/headwind.git@eeeaa80
-      - uses: actions/download-artifact@v2
-        with:
-          name: cmakeperf
-      - name: Run collection
+      - name: Run publish
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
