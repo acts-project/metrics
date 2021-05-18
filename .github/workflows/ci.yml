@@ -16,7 +16,10 @@ jobs:
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
+          mkdir CI
+          pushd CI
           wget https://raw.githubusercontent.com/paulgessinger/acts/perf-tracking/CI/headwind.yml
+          popd 
           rm -rf report
           hdw publish headwind.yml report
           git add report
