@@ -17,7 +17,7 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           rm -rf report
-          hdw publish CI/headwind.yml report
+          hdw publish headwind.yml report
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.3
         with:
