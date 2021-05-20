@@ -16,15 +16,8 @@ jobs:
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          mkdir CI
-          pushd CI
-          wget https://raw.githubusercontent.com/paulgessinger/acts/perf-tracking/CI/headwind.yml
-          popd 
           rm -rf report
           hdw publish CI/headwind.yml report
-          # git add report
-          # git commit -m"update report"
-          # git push
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.3
         with:
