@@ -2,6 +2,7 @@ collectors:
   - type: command
     arg: "dummy"
 storage_dir: metrics
+github_project: acts-project/acts
 report_filter: |
   def func(metric, df):
     import pandas as pd
