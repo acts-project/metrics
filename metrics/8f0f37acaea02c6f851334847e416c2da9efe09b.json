@@ -4,7 +4,11 @@
     "hash": "8f0f37acaea02c6f851334847e416c2da9efe09b",
     "message": "fix: Fitting with ouliers (#804)"
   },
-  "parent": null,
+  "parent": {
+    "date": "2021-05-12T13:07:09+02:00",
+    "hash": "3a8bfa1c777eb7433ac612b26caf8517069c319c",
+    "message": "feat: Introduce vertex performance writer  (#776)"
+  },
   "branch": "main",
   "date": "2021-05-21T09:28:37.741478",
   "results": [
