@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Install dependencies
-        run: pip3 install git+https://github.com/paulgessinger/headwind.git@29e9f9b
+        run: pip3 install git+https://github.com/paulgessinger/headwind.git@d303128
       - name: Run publish
         run: |
           git config --global user.email "action@github.com"
