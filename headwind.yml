@@ -17,3 +17,4 @@ report_filter: |
     mdf = tdf.sort_values(by=[0], ascending=False).head(10)
     leading = mdf.head(10).index.tolist()
     return metric.name in leading
+report_num_commits: 120
