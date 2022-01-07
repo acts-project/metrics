@@ -1,5 +1,5 @@
 {
-  "date": "2022-01-07T10:37:28+00:00",
-  "hash": "4c3ddcf648d07403a9818db34521b4d56dda1d0a",
-  "message": "fix: hash_root_file AttributeError: no field named 'to_numpy' (#1129)"
+  "date": "2022-01-07T13:44:26+00:00",
+  "hash": "8b0005c2d7b4373d2570481ab8731b9b15f37a1a",
+  "message": "test: Refactor kalman-fitter test so it can be reused for other fitters (#1122)"
 }
