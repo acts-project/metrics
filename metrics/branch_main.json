@@ -1,5 +1,5 @@
 {
-  "date": "2022-07-25T09:17:44+00:00",
-  "hash": "4f499d163a46e3dcbea9f7a8104e38259e107b2b",
-  "message": "refactor: remove old DD4hep example detectors (#1337)"
+  "date": "2022-07-26T13:03:45+00:00",
+  "hash": "fac85d6d78283d0f3226f078e62f33766d9e4172",
+  "message": "fix: add missing TFile::Close() to destructors in ROOT writers (#1344)"
 }
