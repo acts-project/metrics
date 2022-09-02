@@ -1,5 +1,5 @@
 {
-  "date": "2022-09-02T09:46:15+02:00",
-  "hash": "b172918b0cb02d910faabc534e8db2069c27e78a",
-  "message": "fix: Set s_binningValues as const (#1485)"
+  "date": "2022-09-02T14:08:12+00:00",
+  "hash": "a1569deb30d4eb63b8c0f8a04cf8ef392fbae6b7",
+  "message": "feat: check if yOuter takes the square root of a negative number when minHelixRadius < rMax / 2 in SpacePointGrid.ipp (#1466)"
 }
