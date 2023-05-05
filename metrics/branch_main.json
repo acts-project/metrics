@@ -1,5 +1,5 @@
 {
-  "date": "2023-05-05T15:12:07+00:00",
-  "hash": "d4d768faa421777d9fc81f1f5851de87bb4a8936",
-  "message": "refactor: Use uint64_t explicitly in MultiTrajectory (#2090)"
+  "date": "2023-05-05T19:48:24+00:00",
+  "hash": "3918f38c6053e10202d43bea2dbfa281fa549f98",
+  "message": "fix: Dangling reference due to source link lifetime in fitters (#2095)"
 }
