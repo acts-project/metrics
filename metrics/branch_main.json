@@ -1,5 +1,5 @@
 {
-  "date": "2023-08-31T09:17:58+00:00",
-  "hash": "928ceefdf630548abe2bee6a6a5c85d718a0aa2e",
-  "message": "fix: add missing binning value cuboid bounds (#2411)"
+  "date": "2023-09-01T08:41:37+00:00",
+  "hash": "a8728424fec8fcc932fa6b55118f36e2827d4fa7",
+  "message": "fix: FPE in AnnealingUtility by using safeExp (#2406)"
 }
