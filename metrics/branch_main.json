@@ -1,5 +1,5 @@
 {
-  "date": "2023-09-14T09:49:41+00:00",
-  "hash": "1fb3f22e3088c1e8c7ba26cb14610ca5322690af",
-  "message": "refactor: Store phi inside space point instead of computing atan2  (#2416)"
+  "date": "2023-09-14T11:40:06+00:00",
+  "hash": "4b8222dc1d5b82cc8f29abb6aa3cfc362a17160e",
+  "message": "perf: Avoid some reallocations in GSF (#2447)"
 }
