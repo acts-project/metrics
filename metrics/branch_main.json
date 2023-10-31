@@ -1,5 +1,5 @@
 {
-  "date": "2023-10-30T20:21:52+00:00",
-  "hash": "fbc3bd8cccaa6e0244551d7a03b2999728f40f53",
-  "message": "fix: Protection against nullptr in material interactor of KF (#2597)"
+  "date": "2023-10-31T11:42:14+00:00",
+  "hash": "1f6dd58d096f89452c1f5d8d5da65b6ddbb7e0bd",
+  "message": "ci: Add clang-tidy check for &&, || and ! instead of and, or and not (#2569)"
 }
