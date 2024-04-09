@@ -1,5 +1,5 @@
 {
-  "date": "2024-04-09T09:35:49+00:00",
-  "hash": "e22fef9b9152a3f6f964ae025dec58f17dd28dbf",
-  "message": "refactor: Do not allocate smoothed track state components in CKF (#3086)"
+  "date": "2024-04-09T15:48:59+00:00",
+  "hash": "2bdcb77166a6fbe8124ff883f5ca5be141f83f9b",
+  "message": "perf: Avoid creation of unused string in CKF (#3090)"
 }
